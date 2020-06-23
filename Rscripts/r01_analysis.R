@@ -96,45 +96,43 @@ if(!dir.exists("data")){
 do_parallel <- TRUE # some analyses can be parallelised with the parallel pkg
 
 # data wrangling
-data_download <- FALSE
-data_clean    <- FALSE
+data_download <- TRUE
+data_clean    <- TRUE
 
 # create and visualize original networks
-networks_create    <- FALSE
-networks_visualize <- FALSE
+networks_create    <- TRUE
+networks_visualize <- TRUE
 
 # compute and visualize the distance interval graphs 
-lazarus_calculate <- FALSE
-lazarus_visualize <- FALSE
+lazarus_calculate <- TRUE
+lazarus_visualize <- TRUE
 
-intervals_visualize <- FALSE
+intervals_visualize <- TRUE
 
 # analyses and visualizations with the Fiedler vector(s)
-fiedler_calculate   <- FALSE
-fiedler_visualize   <- FALSE
-fiedler2D_visualize <- FALSE
+fiedler_calculate   <- TRUE
+fiedler_visualize   <- TRUE
 
 # analyses around boxicity 2 networks
 box2_calculate <- FALSE
 box2_visualize <- FALSE
 
-# compute and visualize approximated super interval-box4 graphs
+# compute and visualize approximated super interval-box5 graphs (NOT IN PAPER)
 superbox1_compute <- FALSE
 superbox2_compute <- FALSE
 superbox3_compute <- FALSE
 superbox4_compute <- FALSE
 superbox5_compute <- FALSE
 
-superbox1_visualize <- FALSE  
 
-# compare with "traditional" methods
+# compare with "traditional" methods (NOT IN PAPER)
 compute_wnom       <- FALSE
 compare_dim        <- FALSE
 compare_clustering <- FALSE
 
 #MSE analysis
-mse_compute   <- FALSE
-mse_visualize <- FALSE
+mse_compute   <- TRUE
+mse_visualize <- TRUE
 
 
 c_seq <- 81:116 #senates to run the script with
@@ -162,7 +160,7 @@ if(data_download){
 # 2) clean data ----
 if(data_clean){
   cat("\ncleaning raw data\n")
-  clean_data()
+  clean_data(end_date = "2020-05-19")
 }
 
 #------------------------------------------------------------------------------#
@@ -180,9 +178,6 @@ if(data_clean){
 #------------------------------------------------------------------------------#
 if(networks_create){
   cat("\ncreating senate networks from roll call votes\n")
-  # if(file.exists("data/processed/model_diagnostic.log")){
-  #   system("rm data/processed/model_diagnostic.log")
-  # }
   
   for(c in c_seq){
     out_file_rds <- paste0("data/processed/networks/senate_",str_pad(c,3,"left","0"),".rds")
@@ -270,7 +265,7 @@ if(lazarus_calculate){
     }
     
     res_sa <- optim(par = perm, fn = lazarus_cliques, A = M,gr = genperm_lz,method = "SANN",
-                    control = list(maxit = 1000000, temp = 100, tmax = 500, trace = FALSE,
+                    control = list(maxit = 100000, temp = 100, tmax = 500, trace = FALSE,
                                    REPORT = 5))
     
     
@@ -338,7 +333,7 @@ if(box2_calculate){
         mutate(party=V(l)$party,name=V(l)$display_name)
       write_csv(xy_tbl,str_replace(f,"networks","boxicity2") %>% str_replace("rds","csv"))
       return(xy_tbl)
-    }, mc.cores = 6)
+    }, mc.cores = 4)
     
   } else{
     for(f in fl){
@@ -576,10 +571,7 @@ if(networks_visualize){
   for(f in 1:length(fl)){
     l <- readRDS(fl[f])
     l <- delete.vertices(l,which(degree(l)==0))
-    pList_senate[[f]] <- plot_network(l)#+
-      #labs(subtitle = senates[f],title=paste0("(",senate_years[f]," - ",senate_years[f]+2,")"))+
-      #theme(plot.title = element_text(family=base_font,size = 16,hjust = 0.5),
-      #      plot.subtitle = element_text(family=base_font,size = 14,hjust = 0.5))
+    pList_senate[[f]] <- plot_network(l)
   }
   
   p <- wrap_plots(pList_senate) + plot_layout(ncol=9)
@@ -1041,7 +1033,7 @@ p1 <- senate_scores %>%
         panel.grid.major.y = element_line(colour="grey",size=0.2))+
   labs(x="Session",y="Party mean of Fiedler vector")
 
-# p <- p1+p2+plot_annotation(tag_levels = "a",tag_suffix = ")")
+
 ggsave("data/figures/polarization_senate.pdf",p1,width=8,height=6)
 
 

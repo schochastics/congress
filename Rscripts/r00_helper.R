@@ -32,7 +32,7 @@ states$south[states$state_icpsr%in%c(40:49,51,53)] <- TRUE
 
 #------------------------------------------------------------------------------#
 # data wrangling ----
-clean_data <- function(){
+clean_data <- function(end_date = "2020-05-19"){
   if(length(list.files("data/processed/votes/"))>0){
     stop("data/processed/votes is not empty. delete content to rerun the cleaning process or set force=TRUE")
   }
@@ -94,29 +94,18 @@ clean_data <- function(){
   
   Sall <- Sall %>% dplyr::filter(!is.na(bioname))
   
+  # filter for reproducibility
+  Sall <- Sall %>% dplyr::filter(date<=end_date)
+  
   Sall_lst <- Sall %>% 
     group_split(congress)
   
   n <- length(Sall_lst)
-  dir.create("data/processed/votes")
   tmp <- map(1:n,function(x) write_csv(Sall_lst[[x]],
                                 path = paste0("data/processed/votes/senate_",str_pad(x,3,"left","0"),".csv")))
   
   cat("created files: data/processed/votes/senate_xxx.csv","for senates: 1 -",n,"\n")
 }
-#------------------------------------------------------------------------------#
-# vote_stats <- function(c){
-#   votes <- vroom(paste0("data/processed/votes/senate_",str_pad(c,3,"left","0"),".csv"),
-#                  col_types = cols(
-#                    .default=col_double(),
-#                    date = col_date(format = ""),
-#                    bioname = col_character(),
-#                    state_abbrev = col_character(),
-#                    party_name = col_character()))
-#   
-#   no_votes <- length(unique(votes$rollnumber)) 
-#   unani
-# }
 #------------------------------------------------------------------------------#
 # network formation ----
 create_network <- function(c,model="logit",filter_senator = 0.5,filter_bills = 0.025,alpha = 0.05,write = TRUE){
