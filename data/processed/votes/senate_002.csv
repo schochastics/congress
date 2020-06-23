@@ -1,0 +1,1419 @@
+congress,rollnumber,date,yea_count,nay_count,bioname,icpsr,cast_code,state_abbrev,party_code,party_name,nominate_dim1,nominate_dim2
+2,1,1791-12-07,9,15,"Bassett, Richard",507,9,DE,5000,Pro-Administration,0.087,0.007
+2,1,1791-12-07,9,15,"Bradley, Stephen Row",956,1,VT,4000,Anti-Administration,0.09,-0.202
+2,1,1791-12-07,9,15,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,1,1791-12-07,9,15,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,1,1791-12-07,9,15,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,1,1791-12-07,9,15,"Carroll, Charles (Of Carrollton)",1536,9,MD,5000,Pro-Administration,0.234,-0.619
+2,1,1791-12-07,9,15,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,1,1791-12-07,9,15,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,1,1791-12-07,9,15,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,1,1791-12-07,9,15,"Foster, Theodore",3315,6,RI,5000,Pro-Administration,0.286,0.675
+2,1,1791-12-07,9,15,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,1,1791-12-07,9,15,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,1,1791-12-07,9,15,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,1,1791-12-07,9,15,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,1,1791-12-07,9,15,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,1,1791-12-07,9,15,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,1,1791-12-07,9,15,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,1,1791-12-07,9,15,"Lee, Richard Henry",5565,9,VA,4000,Anti-Administration,-0.384,-0.54
+2,1,1791-12-07,9,15,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,1,1791-12-07,9,15,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,1,1791-12-07,9,15,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,1,1791-12-07,9,15,"Robinson, Moses",7989,1,VT,4000,Anti-Administration,-0.732,0.649
+2,1,1791-12-07,9,15,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,1,1791-12-07,9,15,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,1,1791-12-07,9,15,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,1,1791-12-07,9,15,"Strong, Caleb",9028,6,MA,5000,Pro-Administration,0.566,0.824
+2,1,1791-12-07,9,15,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,2,1791-12-07,11,13,"Bassett, Richard",507,9,DE,5000,Pro-Administration,0.087,0.007
+2,2,1791-12-07,11,13,"Bradley, Stephen Row",956,6,VT,4000,Anti-Administration,0.09,-0.202
+2,2,1791-12-07,11,13,"Burr, Aaron",1302,6,NY,4000,Anti-Administration,-0.887,-0.462
+2,2,1791-12-07,11,13,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,2,1791-12-07,11,13,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,2,1791-12-07,11,13,"Carroll, Charles (Of Carrollton)",1536,9,MD,5000,Pro-Administration,0.234,-0.619
+2,2,1791-12-07,11,13,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,2,1791-12-07,11,13,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,2,1791-12-07,11,13,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,2,1791-12-07,11,13,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,2,1791-12-07,11,13,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,2,1791-12-07,11,13,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,2,1791-12-07,11,13,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,2,1791-12-07,11,13,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,2,1791-12-07,11,13,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,2,1791-12-07,11,13,"King, Rufus",5270,6,NY,5000,Pro-Administration,0.575,-0.302
+2,2,1791-12-07,11,13,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,2,1791-12-07,11,13,"Lee, Richard Henry",5565,9,VA,4000,Anti-Administration,-0.384,-0.54
+2,2,1791-12-07,11,13,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,2,1791-12-07,11,13,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,2,1791-12-07,11,13,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,2,1791-12-07,11,13,"Robinson, Moses",7989,1,VT,4000,Anti-Administration,-0.732,0.649
+2,2,1791-12-07,11,13,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,2,1791-12-07,11,13,"Sherman, Roger",8457,1,CT,5000,Pro-Administration,0.589,0.307
+2,2,1791-12-07,11,13,"Stanton, Joseph, Jr.",8845,1,RI,4000,Anti-Administration,-0.091,0.736
+2,2,1791-12-07,11,13,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,2,1791-12-07,11,13,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,3,1791-12-07,9,15,"Bassett, Richard",507,9,DE,5000,Pro-Administration,0.087,0.007
+2,3,1791-12-07,9,15,"Bradley, Stephen Row",956,1,VT,4000,Anti-Administration,0.09,-0.202
+2,3,1791-12-07,9,15,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,3,1791-12-07,9,15,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,3,1791-12-07,9,15,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,3,1791-12-07,9,15,"Carroll, Charles (Of Carrollton)",1536,9,MD,5000,Pro-Administration,0.234,-0.619
+2,3,1791-12-07,9,15,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,3,1791-12-07,9,15,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,3,1791-12-07,9,15,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,3,1791-12-07,9,15,"Foster, Theodore",3315,6,RI,5000,Pro-Administration,0.286,0.675
+2,3,1791-12-07,9,15,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,3,1791-12-07,9,15,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,3,1791-12-07,9,15,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,3,1791-12-07,9,15,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,3,1791-12-07,9,15,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,3,1791-12-07,9,15,"King, Rufus",5270,6,NY,5000,Pro-Administration,0.575,-0.302
+2,3,1791-12-07,9,15,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,3,1791-12-07,9,15,"Lee, Richard Henry",5565,9,VA,4000,Anti-Administration,-0.384,-0.54
+2,3,1791-12-07,9,15,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,3,1791-12-07,9,15,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,3,1791-12-07,9,15,"Read, George",7762,6,DE,5000,Pro-Administration,0.282,-0.239
+2,3,1791-12-07,9,15,"Robinson, Moses",7989,1,VT,4000,Anti-Administration,-0.732,0.649
+2,3,1791-12-07,9,15,"Rutherfurd, John",8150,6,NJ,5000,Pro-Administration,0.871,-0.252
+2,3,1791-12-07,9,15,"Sherman, Roger",8457,1,CT,5000,Pro-Administration,0.589,0.307
+2,3,1791-12-07,9,15,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,3,1791-12-07,9,15,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,3,1791-12-07,9,15,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,4,1791-12-07,13,11,"Bassett, Richard",507,9,DE,5000,Pro-Administration,0.087,0.007
+2,4,1791-12-07,13,11,"Bradley, Stephen Row",956,6,VT,4000,Anti-Administration,0.09,-0.202
+2,4,1791-12-07,13,11,"Burr, Aaron",1302,6,NY,4000,Anti-Administration,-0.887,-0.462
+2,4,1791-12-07,13,11,"Butler, Pierce",1346,1,SC,4000,Anti-Administration,-0.4,-0.912
+2,4,1791-12-07,13,11,"Cabot, George",1384,6,MA,5000,Pro-Administration,0.657,0.569
+2,4,1791-12-07,13,11,"Carroll, Charles (Of Carrollton)",1536,9,MD,5000,Pro-Administration,0.234,-0.619
+2,4,1791-12-07,13,11,"Dickinson, Philemon",2576,1,NJ,5000,Pro-Administration,0.609,-0.696
+2,4,1791-12-07,13,11,"Ellsworth, Oliver",2936,6,CT,5000,Pro-Administration,0.53,0.809
+2,4,1791-12-07,13,11,"Few, William",3128,1,GA,4000,Anti-Administration,-0.505,-0.433
+2,4,1791-12-07,13,11,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,4,1791-12-07,13,11,"Gunn, James",3877,1,GA,4000,Anti-Administration,0.218,-0.884
+2,4,1791-12-07,13,11,"Hawkins, Benjamin",4212,1,NC,4000,Anti-Administration,-0.046,-0.664
+2,4,1791-12-07,13,11,"Henry, John",4333,1,MD,5000,Pro-Administration,0.123,-0.573
+2,4,1791-12-07,13,11,"Izard, Ralph",4837,1,SC,5000,Pro-Administration,0.446,-0.587
+2,4,1791-12-07,13,11,"Johnston, Samuel",5012,1,NC,5000,Pro-Administration,-0.025,-0.527
+2,4,1791-12-07,13,11,"King, Rufus",5270,6,NY,5000,Pro-Administration,0.575,-0.302
+2,4,1791-12-07,13,11,"Langdon, John",5449,6,NH,5000,Pro-Administration,-0.37,0.107
+2,4,1791-12-07,13,11,"Lee, Richard Henry",5565,9,VA,4000,Anti-Administration,-0.384,-0.54
+2,4,1791-12-07,13,11,"Monroe, James",6594,1,VA,4000,Anti-Administration,-0.514,-0.762
+2,4,1791-12-07,13,11,"Morris, Robert",6712,1,PA,5000,Pro-Administration,0.7,-0.691
+2,4,1791-12-07,13,11,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,4,1791-12-07,13,11,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,4,1791-12-07,13,11,"Rutherfurd, John",8150,6,NJ,5000,Pro-Administration,0.871,-0.252
+2,4,1791-12-07,13,11,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,4,1791-12-07,13,11,"Stanton, Joseph, Jr.",8845,1,RI,4000,Anti-Administration,-0.091,0.736
+2,4,1791-12-07,13,11,"Strong, Caleb",9028,6,MA,5000,Pro-Administration,0.566,0.824
+2,4,1791-12-07,13,11,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,5,1791-12-08,12,12,"Bassett, Richard",507,9,DE,5000,Pro-Administration,0.087,0.007
+2,5,1791-12-08,12,12,"Bradley, Stephen Row",956,1,VT,4000,Anti-Administration,0.09,-0.202
+2,5,1791-12-08,12,12,"Burr, Aaron",1302,6,NY,4000,Anti-Administration,-0.887,-0.462
+2,5,1791-12-08,12,12,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,5,1791-12-08,12,12,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,5,1791-12-08,12,12,"Carroll, Charles (Of Carrollton)",1536,9,MD,5000,Pro-Administration,0.234,-0.619
+2,5,1791-12-08,12,12,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,5,1791-12-08,12,12,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,5,1791-12-08,12,12,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,5,1791-12-08,12,12,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,5,1791-12-08,12,12,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,5,1791-12-08,12,12,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,5,1791-12-08,12,12,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,5,1791-12-08,12,12,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,5,1791-12-08,12,12,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,5,1791-12-08,12,12,"King, Rufus",5270,6,NY,5000,Pro-Administration,0.575,-0.302
+2,5,1791-12-08,12,12,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,5,1791-12-08,12,12,"Lee, Richard Henry",5565,9,VA,4000,Anti-Administration,-0.384,-0.54
+2,5,1791-12-08,12,12,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,5,1791-12-08,12,12,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,5,1791-12-08,12,12,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,5,1791-12-08,12,12,"Robinson, Moses",7989,1,VT,4000,Anti-Administration,-0.732,0.649
+2,5,1791-12-08,12,12,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,5,1791-12-08,12,12,"Sherman, Roger",8457,1,CT,5000,Pro-Administration,0.589,0.307
+2,5,1791-12-08,12,12,"Stanton, Joseph, Jr.",8845,1,RI,4000,Anti-Administration,-0.091,0.736
+2,5,1791-12-08,12,12,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,5,1791-12-08,12,12,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,6,1791-12-08,14,10,"Bassett, Richard",507,9,DE,5000,Pro-Administration,0.087,0.007
+2,6,1791-12-08,14,10,"Bradley, Stephen Row",956,1,VT,4000,Anti-Administration,0.09,-0.202
+2,6,1791-12-08,14,10,"Burr, Aaron",1302,6,NY,4000,Anti-Administration,-0.887,-0.462
+2,6,1791-12-08,14,10,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,6,1791-12-08,14,10,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,6,1791-12-08,14,10,"Carroll, Charles (Of Carrollton)",1536,9,MD,5000,Pro-Administration,0.234,-0.619
+2,6,1791-12-08,14,10,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,6,1791-12-08,14,10,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,6,1791-12-08,14,10,"Few, William",3128,1,GA,4000,Anti-Administration,-0.505,-0.433
+2,6,1791-12-08,14,10,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,6,1791-12-08,14,10,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,6,1791-12-08,14,10,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,6,1791-12-08,14,10,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,6,1791-12-08,14,10,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,6,1791-12-08,14,10,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,6,1791-12-08,14,10,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,6,1791-12-08,14,10,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,6,1791-12-08,14,10,"Lee, Richard Henry",5565,9,VA,4000,Anti-Administration,-0.384,-0.54
+2,6,1791-12-08,14,10,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,6,1791-12-08,14,10,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,6,1791-12-08,14,10,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,6,1791-12-08,14,10,"Robinson, Moses",7989,1,VT,4000,Anti-Administration,-0.732,0.649
+2,6,1791-12-08,14,10,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,6,1791-12-08,14,10,"Sherman, Roger",8457,1,CT,5000,Pro-Administration,0.589,0.307
+2,6,1791-12-08,14,10,"Stanton, Joseph, Jr.",8845,1,RI,4000,Anti-Administration,-0.091,0.736
+2,6,1791-12-08,14,10,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,6,1791-12-08,14,10,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,7,1791-12-15,12,12,"Bassett, Richard",507,9,DE,5000,Pro-Administration,0.087,0.007
+2,7,1791-12-15,12,12,"Bradley, Stephen Row",956,6,VT,4000,Anti-Administration,0.09,-0.202
+2,7,1791-12-15,12,12,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,7,1791-12-15,12,12,"Butler, Pierce",1346,1,SC,4000,Anti-Administration,-0.4,-0.912
+2,7,1791-12-15,12,12,"Cabot, George",1384,6,MA,5000,Pro-Administration,0.657,0.569
+2,7,1791-12-15,12,12,"Carroll, Charles (Of Carrollton)",1536,9,MD,5000,Pro-Administration,0.234,-0.619
+2,7,1791-12-15,12,12,"Dickinson, Philemon",2576,1,NJ,5000,Pro-Administration,0.609,-0.696
+2,7,1791-12-15,12,12,"Ellsworth, Oliver",2936,6,CT,5000,Pro-Administration,0.53,0.809
+2,7,1791-12-15,12,12,"Few, William",3128,1,GA,4000,Anti-Administration,-0.505,-0.433
+2,7,1791-12-15,12,12,"Foster, Theodore",3315,6,RI,5000,Pro-Administration,0.286,0.675
+2,7,1791-12-15,12,12,"Gunn, James",3877,1,GA,4000,Anti-Administration,0.218,-0.884
+2,7,1791-12-15,12,12,"Hawkins, Benjamin",4212,1,NC,4000,Anti-Administration,-0.046,-0.664
+2,7,1791-12-15,12,12,"Henry, John",4333,1,MD,5000,Pro-Administration,0.123,-0.573
+2,7,1791-12-15,12,12,"Izard, Ralph",4837,1,SC,5000,Pro-Administration,0.446,-0.587
+2,7,1791-12-15,12,12,"Johnston, Samuel",5012,1,NC,5000,Pro-Administration,-0.025,-0.527
+2,7,1791-12-15,12,12,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,7,1791-12-15,12,12,"Langdon, John",5449,6,NH,5000,Pro-Administration,-0.37,0.107
+2,7,1791-12-15,12,12,"Lee, Richard Henry",5565,9,VA,4000,Anti-Administration,-0.384,-0.54
+2,7,1791-12-15,12,12,"Monroe, James",6594,1,VA,4000,Anti-Administration,-0.514,-0.762
+2,7,1791-12-15,12,12,"Morris, Robert",6712,1,PA,5000,Pro-Administration,0.7,-0.691
+2,7,1791-12-15,12,12,"Read, George",7762,6,DE,5000,Pro-Administration,0.282,-0.239
+2,7,1791-12-15,12,12,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,7,1791-12-15,12,12,"Rutherfurd, John",8150,6,NJ,5000,Pro-Administration,0.871,-0.252
+2,7,1791-12-15,12,12,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,7,1791-12-15,12,12,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,7,1791-12-15,12,12,"Strong, Caleb",9028,6,MA,5000,Pro-Administration,0.566,0.824
+2,7,1791-12-15,12,12,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,8,1791-12-20,12,12,"Bassett, Richard",507,9,DE,5000,Pro-Administration,0.087,0.007
+2,8,1791-12-20,12,12,"Bradley, Stephen Row",956,1,VT,4000,Anti-Administration,0.09,-0.202
+2,8,1791-12-20,12,12,"Burr, Aaron",1302,6,NY,4000,Anti-Administration,-0.887,-0.462
+2,8,1791-12-20,12,12,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,8,1791-12-20,12,12,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,8,1791-12-20,12,12,"Carroll, Charles (Of Carrollton)",1536,9,MD,5000,Pro-Administration,0.234,-0.619
+2,8,1791-12-20,12,12,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,8,1791-12-20,12,12,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,8,1791-12-20,12,12,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,8,1791-12-20,12,12,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,8,1791-12-20,12,12,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,8,1791-12-20,12,12,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,8,1791-12-20,12,12,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,8,1791-12-20,12,12,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,8,1791-12-20,12,12,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,8,1791-12-20,12,12,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,8,1791-12-20,12,12,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,8,1791-12-20,12,12,"Lee, Richard Henry",5565,9,VA,4000,Anti-Administration,-0.384,-0.54
+2,8,1791-12-20,12,12,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,8,1791-12-20,12,12,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,8,1791-12-20,12,12,"Read, George",7762,6,DE,5000,Pro-Administration,0.282,-0.239
+2,8,1791-12-20,12,12,"Robinson, Moses",7989,1,VT,4000,Anti-Administration,-0.732,0.649
+2,8,1791-12-20,12,12,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,8,1791-12-20,12,12,"Sherman, Roger",8457,1,CT,5000,Pro-Administration,0.589,0.307
+2,8,1791-12-20,12,12,"Stanton, Joseph, Jr.",8845,1,RI,4000,Anti-Administration,-0.091,0.736
+2,8,1791-12-20,12,12,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,8,1791-12-20,12,12,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,9,1792-01-06,19,7,"Bassett, Richard",507,9,DE,5000,Pro-Administration,0.087,0.007
+2,9,1792-01-06,19,7,"Bradley, Stephen Row",956,6,VT,4000,Anti-Administration,0.09,-0.202
+2,9,1792-01-06,19,7,"Burr, Aaron",1302,6,NY,4000,Anti-Administration,-0.887,-0.462
+2,9,1792-01-06,19,7,"Butler, Pierce",1346,1,SC,4000,Anti-Administration,-0.4,-0.912
+2,9,1792-01-06,19,7,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,9,1792-01-06,19,7,"Carroll, Charles (Of Carrollton)",1536,1,MD,5000,Pro-Administration,0.234,-0.619
+2,9,1792-01-06,19,7,"Dickinson, Philemon",2576,1,NJ,5000,Pro-Administration,0.609,-0.696
+2,9,1792-01-06,19,7,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,9,1792-01-06,19,7,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,9,1792-01-06,19,7,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,9,1792-01-06,19,7,"Gunn, James",3877,1,GA,4000,Anti-Administration,0.218,-0.884
+2,9,1792-01-06,19,7,"Hawkins, Benjamin",4212,1,NC,4000,Anti-Administration,-0.046,-0.664
+2,9,1792-01-06,19,7,"Henry, John",4333,1,MD,5000,Pro-Administration,0.123,-0.573
+2,9,1792-01-06,19,7,"Izard, Ralph",4837,1,SC,5000,Pro-Administration,0.446,-0.587
+2,9,1792-01-06,19,7,"Johnston, Samuel",5012,1,NC,5000,Pro-Administration,-0.025,-0.527
+2,9,1792-01-06,19,7,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,9,1792-01-06,19,7,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,9,1792-01-06,19,7,"Lee, Richard Henry",5565,1,VA,4000,Anti-Administration,-0.384,-0.54
+2,9,1792-01-06,19,7,"Monroe, James",6594,1,VA,4000,Anti-Administration,-0.514,-0.762
+2,9,1792-01-06,19,7,"Morris, Robert",6712,1,PA,5000,Pro-Administration,0.7,-0.691
+2,9,1792-01-06,19,7,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,9,1792-01-06,19,7,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,9,1792-01-06,19,7,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,9,1792-01-06,19,7,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,9,1792-01-06,19,7,"Stanton, Joseph, Jr.",8845,1,RI,4000,Anti-Administration,-0.091,0.736
+2,9,1792-01-06,19,7,"Strong, Caleb",9028,6,MA,5000,Pro-Administration,0.566,0.824
+2,9,1792-01-06,19,7,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,10,1792-01-10,23,4,"Bassett, Richard",507,1,DE,5000,Pro-Administration,0.087,0.007
+2,10,1792-01-10,23,4,"Bradley, Stephen Row",956,6,VT,4000,Anti-Administration,0.09,-0.202
+2,10,1792-01-10,23,4,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,10,1792-01-10,23,4,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,10,1792-01-10,23,4,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,10,1792-01-10,23,4,"Carroll, Charles (Of Carrollton)",1536,1,MD,5000,Pro-Administration,0.234,-0.619
+2,10,1792-01-10,23,4,"Dickinson, Philemon",2576,1,NJ,5000,Pro-Administration,0.609,-0.696
+2,10,1792-01-10,23,4,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,10,1792-01-10,23,4,"Few, William",3128,1,GA,4000,Anti-Administration,-0.505,-0.433
+2,10,1792-01-10,23,4,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,10,1792-01-10,23,4,"Gunn, James",3877,1,GA,4000,Anti-Administration,0.218,-0.884
+2,10,1792-01-10,23,4,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,10,1792-01-10,23,4,"Henry, John",4333,1,MD,5000,Pro-Administration,0.123,-0.573
+2,10,1792-01-10,23,4,"Izard, Ralph",4837,1,SC,5000,Pro-Administration,0.446,-0.587
+2,10,1792-01-10,23,4,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,10,1792-01-10,23,4,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,10,1792-01-10,23,4,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,10,1792-01-10,23,4,"Lee, Richard Henry",5565,1,VA,4000,Anti-Administration,-0.384,-0.54
+2,10,1792-01-10,23,4,"Monroe, James",6594,1,VA,4000,Anti-Administration,-0.514,-0.762
+2,10,1792-01-10,23,4,"Morris, Robert",6712,1,PA,5000,Pro-Administration,0.7,-0.691
+2,10,1792-01-10,23,4,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,10,1792-01-10,23,4,"Robinson, Moses",7989,1,VT,4000,Anti-Administration,-0.732,0.649
+2,10,1792-01-10,23,4,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,10,1792-01-10,23,4,"Sherman, Roger",8457,1,CT,5000,Pro-Administration,0.589,0.307
+2,10,1792-01-10,23,4,"Stanton, Joseph, Jr.",8845,1,RI,4000,Anti-Administration,-0.091,0.736
+2,10,1792-01-10,23,4,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,10,1792-01-10,23,4,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,11,1792-01-12,16,11,"Bassett, Richard",507,1,DE,5000,Pro-Administration,0.087,0.007
+2,11,1792-01-12,16,11,"Bradley, Stephen Row",956,1,VT,4000,Anti-Administration,0.09,-0.202
+2,11,1792-01-12,16,11,"Burr, Aaron",1302,6,NY,4000,Anti-Administration,-0.887,-0.462
+2,11,1792-01-12,16,11,"Butler, Pierce",1346,1,SC,4000,Anti-Administration,-0.4,-0.912
+2,11,1792-01-12,16,11,"Cabot, George",1384,6,MA,5000,Pro-Administration,0.657,0.569
+2,11,1792-01-12,16,11,"Carroll, Charles (Of Carrollton)",1536,1,MD,5000,Pro-Administration,0.234,-0.619
+2,11,1792-01-12,16,11,"Dickinson, Philemon",2576,1,NJ,5000,Pro-Administration,0.609,-0.696
+2,11,1792-01-12,16,11,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,11,1792-01-12,16,11,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,11,1792-01-12,16,11,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,11,1792-01-12,16,11,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,11,1792-01-12,16,11,"Hawkins, Benjamin",4212,1,NC,4000,Anti-Administration,-0.046,-0.664
+2,11,1792-01-12,16,11,"Henry, John",4333,1,MD,5000,Pro-Administration,0.123,-0.573
+2,11,1792-01-12,16,11,"Izard, Ralph",4837,1,SC,5000,Pro-Administration,0.446,-0.587
+2,11,1792-01-12,16,11,"Johnston, Samuel",5012,1,NC,5000,Pro-Administration,-0.025,-0.527
+2,11,1792-01-12,16,11,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,11,1792-01-12,16,11,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,11,1792-01-12,16,11,"Lee, Richard Henry",5565,6,VA,4000,Anti-Administration,-0.384,-0.54
+2,11,1792-01-12,16,11,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,11,1792-01-12,16,11,"Morris, Robert",6712,1,PA,5000,Pro-Administration,0.7,-0.691
+2,11,1792-01-12,16,11,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,11,1792-01-12,16,11,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,11,1792-01-12,16,11,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,11,1792-01-12,16,11,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,11,1792-01-12,16,11,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,11,1792-01-12,16,11,"Strong, Caleb",9028,6,MA,5000,Pro-Administration,0.566,0.824
+2,11,1792-01-12,16,11,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,12,1792-01-16,13,13,"Bassett, Richard",507,1,DE,5000,Pro-Administration,0.087,0.007
+2,12,1792-01-16,13,13,"Bradley, Stephen Row",956,6,VT,4000,Anti-Administration,0.09,-0.202
+2,12,1792-01-16,13,13,"Burr, Aaron",1302,6,NY,4000,Anti-Administration,-0.887,-0.462
+2,12,1792-01-16,13,13,"Butler, Pierce",1346,1,SC,4000,Anti-Administration,-0.4,-0.912
+2,12,1792-01-16,13,13,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,12,1792-01-16,13,13,"Carroll, Charles (Of Carrollton)",1536,1,MD,5000,Pro-Administration,0.234,-0.619
+2,12,1792-01-16,13,13,"Dickinson, Philemon",2576,1,NJ,5000,Pro-Administration,0.609,-0.696
+2,12,1792-01-16,13,13,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,12,1792-01-16,13,13,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,12,1792-01-16,13,13,"Foster, Theodore",3315,6,RI,5000,Pro-Administration,0.286,0.675
+2,12,1792-01-16,13,13,"Gunn, James",3877,9,GA,4000,Anti-Administration,0.218,-0.884
+2,12,1792-01-16,13,13,"Hawkins, Benjamin",4212,1,NC,4000,Anti-Administration,-0.046,-0.664
+2,12,1792-01-16,13,13,"Henry, John",4333,1,MD,5000,Pro-Administration,0.123,-0.573
+2,12,1792-01-16,13,13,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,12,1792-01-16,13,13,"Johnston, Samuel",5012,1,NC,5000,Pro-Administration,-0.025,-0.527
+2,12,1792-01-16,13,13,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,12,1792-01-16,13,13,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,12,1792-01-16,13,13,"Lee, Richard Henry",5565,6,VA,4000,Anti-Administration,-0.384,-0.54
+2,12,1792-01-16,13,13,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,12,1792-01-16,13,13,"Morris, Robert",6712,1,PA,5000,Pro-Administration,0.7,-0.691
+2,12,1792-01-16,13,13,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,12,1792-01-16,13,13,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,12,1792-01-16,13,13,"Rutherfurd, John",8150,6,NJ,5000,Pro-Administration,0.871,-0.252
+2,12,1792-01-16,13,13,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,12,1792-01-16,13,13,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,12,1792-01-16,13,13,"Strong, Caleb",9028,6,MA,5000,Pro-Administration,0.566,0.824
+2,12,1792-01-16,13,13,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,13,1792-01-16,15,11,"Bassett, Richard",507,1,DE,5000,Pro-Administration,0.087,0.007
+2,13,1792-01-16,15,11,"Bradley, Stephen Row",956,6,VT,4000,Anti-Administration,0.09,-0.202
+2,13,1792-01-16,15,11,"Burr, Aaron",1302,6,NY,4000,Anti-Administration,-0.887,-0.462
+2,13,1792-01-16,15,11,"Butler, Pierce",1346,1,SC,4000,Anti-Administration,-0.4,-0.912
+2,13,1792-01-16,15,11,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,13,1792-01-16,15,11,"Carroll, Charles (Of Carrollton)",1536,1,MD,5000,Pro-Administration,0.234,-0.619
+2,13,1792-01-16,15,11,"Dickinson, Philemon",2576,1,NJ,5000,Pro-Administration,0.609,-0.696
+2,13,1792-01-16,15,11,"Ellsworth, Oliver",2936,6,CT,5000,Pro-Administration,0.53,0.809
+2,13,1792-01-16,15,11,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,13,1792-01-16,15,11,"Foster, Theodore",3315,6,RI,5000,Pro-Administration,0.286,0.675
+2,13,1792-01-16,15,11,"Gunn, James",3877,9,GA,4000,Anti-Administration,0.218,-0.884
+2,13,1792-01-16,15,11,"Hawkins, Benjamin",4212,1,NC,4000,Anti-Administration,-0.046,-0.664
+2,13,1792-01-16,15,11,"Henry, John",4333,1,MD,5000,Pro-Administration,0.123,-0.573
+2,13,1792-01-16,15,11,"Izard, Ralph",4837,1,SC,5000,Pro-Administration,0.446,-0.587
+2,13,1792-01-16,15,11,"Johnston, Samuel",5012,1,NC,5000,Pro-Administration,-0.025,-0.527
+2,13,1792-01-16,15,11,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,13,1792-01-16,15,11,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,13,1792-01-16,15,11,"Lee, Richard Henry",5565,1,VA,4000,Anti-Administration,-0.384,-0.54
+2,13,1792-01-16,15,11,"Monroe, James",6594,1,VA,4000,Anti-Administration,-0.514,-0.762
+2,13,1792-01-16,15,11,"Morris, Robert",6712,1,PA,5000,Pro-Administration,0.7,-0.691
+2,13,1792-01-16,15,11,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,13,1792-01-16,15,11,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,13,1792-01-16,15,11,"Rutherfurd, John",8150,6,NJ,5000,Pro-Administration,0.871,-0.252
+2,13,1792-01-16,15,11,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,13,1792-01-16,15,11,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,13,1792-01-16,15,11,"Strong, Caleb",9028,6,MA,5000,Pro-Administration,0.566,0.824
+2,13,1792-01-16,15,11,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,14,1792-02-09,13,12,"Bassett, Richard",507,6,DE,5000,Pro-Administration,0.087,0.007
+2,14,1792-02-09,13,12,"Bradley, Stephen Row",956,1,VT,4000,Anti-Administration,0.09,-0.202
+2,14,1792-02-09,13,12,"Burr, Aaron",1302,9,NY,4000,Anti-Administration,-0.887,-0.462
+2,14,1792-02-09,13,12,"Butler, Pierce",1346,1,SC,4000,Anti-Administration,-0.4,-0.912
+2,14,1792-02-09,13,12,"Cabot, George",1384,6,MA,5000,Pro-Administration,0.657,0.569
+2,14,1792-02-09,13,12,"Carroll, Charles (Of Carrollton)",1536,6,MD,5000,Pro-Administration,0.234,-0.619
+2,14,1792-02-09,13,12,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,14,1792-02-09,13,12,"Ellsworth, Oliver",2936,6,CT,5000,Pro-Administration,0.53,0.809
+2,14,1792-02-09,13,12,"Few, William",3128,1,GA,4000,Anti-Administration,-0.505,-0.433
+2,14,1792-02-09,13,12,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,14,1792-02-09,13,12,"Gunn, James",3877,1,GA,4000,Anti-Administration,0.218,-0.884
+2,14,1792-02-09,13,12,"Hawkins, Benjamin",4212,1,NC,4000,Anti-Administration,-0.046,-0.664
+2,14,1792-02-09,13,12,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,14,1792-02-09,13,12,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,14,1792-02-09,13,12,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,14,1792-02-09,13,12,"King, Rufus",5270,9,NY,5000,Pro-Administration,0.575,-0.302
+2,14,1792-02-09,13,12,"Langdon, John",5449,6,NH,5000,Pro-Administration,-0.37,0.107
+2,14,1792-02-09,13,12,"Lee, Richard Henry",5565,1,VA,4000,Anti-Administration,-0.384,-0.54
+2,14,1792-02-09,13,12,"Monroe, James",6594,1,VA,4000,Anti-Administration,-0.514,-0.762
+2,14,1792-02-09,13,12,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,14,1792-02-09,13,12,"Read, George",7762,6,DE,5000,Pro-Administration,0.282,-0.239
+2,14,1792-02-09,13,12,"Robinson, Moses",7989,1,VT,4000,Anti-Administration,-0.732,0.649
+2,14,1792-02-09,13,12,"Rutherfurd, John",8150,6,NJ,5000,Pro-Administration,0.871,-0.252
+2,14,1792-02-09,13,12,"Sherman, Roger",8457,1,CT,5000,Pro-Administration,0.589,0.307
+2,14,1792-02-09,13,12,"Stanton, Joseph, Jr.",8845,1,RI,4000,Anti-Administration,-0.091,0.736
+2,14,1792-02-09,13,12,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,14,1792-02-09,13,12,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,15,1792-02-13,14,13,"Bassett, Richard",507,1,DE,5000,Pro-Administration,0.087,0.007
+2,15,1792-02-13,14,13,"Bradley, Stephen Row",956,6,VT,4000,Anti-Administration,0.09,-0.202
+2,15,1792-02-13,14,13,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,15,1792-02-13,14,13,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,15,1792-02-13,14,13,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,15,1792-02-13,14,13,"Carroll, Charles (Of Carrollton)",1536,1,MD,5000,Pro-Administration,0.234,-0.619
+2,15,1792-02-13,14,13,"Dickinson, Philemon",2576,1,NJ,5000,Pro-Administration,0.609,-0.696
+2,15,1792-02-13,14,13,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,15,1792-02-13,14,13,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,15,1792-02-13,14,13,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,15,1792-02-13,14,13,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,15,1792-02-13,14,13,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,15,1792-02-13,14,13,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,15,1792-02-13,14,13,"Izard, Ralph",4837,1,SC,5000,Pro-Administration,0.446,-0.587
+2,15,1792-02-13,14,13,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,15,1792-02-13,14,13,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,15,1792-02-13,14,13,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,15,1792-02-13,14,13,"Lee, Richard Henry",5565,6,VA,4000,Anti-Administration,-0.384,-0.54
+2,15,1792-02-13,14,13,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,15,1792-02-13,14,13,"Morris, Robert",6712,1,PA,5000,Pro-Administration,0.7,-0.691
+2,15,1792-02-13,14,13,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,15,1792-02-13,14,13,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,15,1792-02-13,14,13,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,15,1792-02-13,14,13,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,15,1792-02-13,14,13,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,15,1792-02-13,14,13,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,15,1792-02-13,14,13,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,16,1792-02-17,15,12,"Bassett, Richard",507,1,DE,5000,Pro-Administration,0.087,0.007
+2,16,1792-02-17,15,12,"Bradley, Stephen Row",956,6,VT,4000,Anti-Administration,0.09,-0.202
+2,16,1792-02-17,15,12,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,16,1792-02-17,15,12,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,16,1792-02-17,15,12,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,16,1792-02-17,15,12,"Carroll, Charles (Of Carrollton)",1536,1,MD,5000,Pro-Administration,0.234,-0.619
+2,16,1792-02-17,15,12,"Dickinson, Philemon",2576,1,NJ,5000,Pro-Administration,0.609,-0.696
+2,16,1792-02-17,15,12,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,16,1792-02-17,15,12,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,16,1792-02-17,15,12,"Foster, Theodore",3315,6,RI,5000,Pro-Administration,0.286,0.675
+2,16,1792-02-17,15,12,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,16,1792-02-17,15,12,"Hawkins, Benjamin",4212,1,NC,4000,Anti-Administration,-0.046,-0.664
+2,16,1792-02-17,15,12,"Henry, John",4333,1,MD,5000,Pro-Administration,0.123,-0.573
+2,16,1792-02-17,15,12,"Izard, Ralph",4837,1,SC,5000,Pro-Administration,0.446,-0.587
+2,16,1792-02-17,15,12,"Johnston, Samuel",5012,1,NC,5000,Pro-Administration,-0.025,-0.527
+2,16,1792-02-17,15,12,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,16,1792-02-17,15,12,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,16,1792-02-17,15,12,"Lee, Richard Henry",5565,6,VA,4000,Anti-Administration,-0.384,-0.54
+2,16,1792-02-17,15,12,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,16,1792-02-17,15,12,"Morris, Robert",6712,1,PA,5000,Pro-Administration,0.7,-0.691
+2,16,1792-02-17,15,12,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,16,1792-02-17,15,12,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,16,1792-02-17,15,12,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,16,1792-02-17,15,12,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,16,1792-02-17,15,12,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,16,1792-02-17,15,12,"Strong, Caleb",9028,6,MA,5000,Pro-Administration,0.566,0.824
+2,16,1792-02-17,15,12,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,17,1792-02-23,8,18,"Bassett, Richard",507,1,DE,5000,Pro-Administration,0.087,0.007
+2,17,1792-02-23,8,18,"Bradley, Stephen Row",956,1,VT,4000,Anti-Administration,0.09,-0.202
+2,17,1792-02-23,8,18,"Burr, Aaron",1302,6,NY,4000,Anti-Administration,-0.887,-0.462
+2,17,1792-02-23,8,18,"Butler, Pierce",1346,9,SC,4000,Anti-Administration,-0.4,-0.912
+2,17,1792-02-23,8,18,"Cabot, George",1384,6,MA,5000,Pro-Administration,0.657,0.569
+2,17,1792-02-23,8,18,"Carroll, Charles (Of Carrollton)",1536,6,MD,5000,Pro-Administration,0.234,-0.619
+2,17,1792-02-23,8,18,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,17,1792-02-23,8,18,"Ellsworth, Oliver",2936,6,CT,5000,Pro-Administration,0.53,0.809
+2,17,1792-02-23,8,18,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,17,1792-02-23,8,18,"Foster, Theodore",3315,6,RI,5000,Pro-Administration,0.286,0.675
+2,17,1792-02-23,8,18,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,17,1792-02-23,8,18,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,17,1792-02-23,8,18,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,17,1792-02-23,8,18,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,17,1792-02-23,8,18,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,17,1792-02-23,8,18,"King, Rufus",5270,6,NY,5000,Pro-Administration,0.575,-0.302
+2,17,1792-02-23,8,18,"Langdon, John",5449,6,NH,5000,Pro-Administration,-0.37,0.107
+2,17,1792-02-23,8,18,"Lee, Richard Henry",5565,6,VA,4000,Anti-Administration,-0.384,-0.54
+2,17,1792-02-23,8,18,"Monroe, James",6594,1,VA,4000,Anti-Administration,-0.514,-0.762
+2,17,1792-02-23,8,18,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,17,1792-02-23,8,18,"Read, George",7762,6,DE,5000,Pro-Administration,0.282,-0.239
+2,17,1792-02-23,8,18,"Robinson, Moses",7989,1,VT,4000,Anti-Administration,-0.732,0.649
+2,17,1792-02-23,8,18,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,17,1792-02-23,8,18,"Sherman, Roger",8457,1,CT,5000,Pro-Administration,0.589,0.307
+2,17,1792-02-23,8,18,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,17,1792-02-23,8,18,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,17,1792-02-23,8,18,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,18,1792-02-23,8,18,"Bassett, Richard",507,6,DE,5000,Pro-Administration,0.087,0.007
+2,18,1792-02-23,8,18,"Bradley, Stephen Row",956,6,VT,4000,Anti-Administration,0.09,-0.202
+2,18,1792-02-23,8,18,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,18,1792-02-23,8,18,"Butler, Pierce",1346,9,SC,4000,Anti-Administration,-0.4,-0.912
+2,18,1792-02-23,8,18,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,18,1792-02-23,8,18,"Carroll, Charles (Of Carrollton)",1536,6,MD,5000,Pro-Administration,0.234,-0.619
+2,18,1792-02-23,8,18,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,18,1792-02-23,8,18,"Ellsworth, Oliver",2936,6,CT,5000,Pro-Administration,0.53,0.809
+2,18,1792-02-23,8,18,"Few, William",3128,1,GA,4000,Anti-Administration,-0.505,-0.433
+2,18,1792-02-23,8,18,"Foster, Theodore",3315,6,RI,5000,Pro-Administration,0.286,0.675
+2,18,1792-02-23,8,18,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,18,1792-02-23,8,18,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,18,1792-02-23,8,18,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,18,1792-02-23,8,18,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,18,1792-02-23,8,18,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,18,1792-02-23,8,18,"King, Rufus",5270,6,NY,5000,Pro-Administration,0.575,-0.302
+2,18,1792-02-23,8,18,"Langdon, John",5449,6,NH,5000,Pro-Administration,-0.37,0.107
+2,18,1792-02-23,8,18,"Lee, Richard Henry",5565,6,VA,4000,Anti-Administration,-0.384,-0.54
+2,18,1792-02-23,8,18,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,18,1792-02-23,8,18,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,18,1792-02-23,8,18,"Read, George",7762,6,DE,5000,Pro-Administration,0.282,-0.239
+2,18,1792-02-23,8,18,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,18,1792-02-23,8,18,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,18,1792-02-23,8,18,"Sherman, Roger",8457,1,CT,5000,Pro-Administration,0.589,0.307
+2,18,1792-02-23,8,18,"Stanton, Joseph, Jr.",8845,1,RI,4000,Anti-Administration,-0.091,0.736
+2,18,1792-02-23,8,18,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,18,1792-02-23,8,18,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,19,1792-02-23,12,15,"Bassett, Richard",507,6,DE,5000,Pro-Administration,0.087,0.007
+2,19,1792-02-23,12,15,"Bradley, Stephen Row",956,1,VT,4000,Anti-Administration,0.09,-0.202
+2,19,1792-02-23,12,15,"Burr, Aaron",1302,6,NY,4000,Anti-Administration,-0.887,-0.462
+2,19,1792-02-23,12,15,"Butler, Pierce",1346,1,SC,4000,Anti-Administration,-0.4,-0.912
+2,19,1792-02-23,12,15,"Cabot, George",1384,6,MA,5000,Pro-Administration,0.657,0.569
+2,19,1792-02-23,12,15,"Carroll, Charles (Of Carrollton)",1536,6,MD,5000,Pro-Administration,0.234,-0.619
+2,19,1792-02-23,12,15,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,19,1792-02-23,12,15,"Ellsworth, Oliver",2936,6,CT,5000,Pro-Administration,0.53,0.809
+2,19,1792-02-23,12,15,"Few, William",3128,1,GA,4000,Anti-Administration,-0.505,-0.433
+2,19,1792-02-23,12,15,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,19,1792-02-23,12,15,"Gunn, James",3877,1,GA,4000,Anti-Administration,0.218,-0.884
+2,19,1792-02-23,12,15,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,19,1792-02-23,12,15,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,19,1792-02-23,12,15,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,19,1792-02-23,12,15,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,19,1792-02-23,12,15,"King, Rufus",5270,6,NY,5000,Pro-Administration,0.575,-0.302
+2,19,1792-02-23,12,15,"Langdon, John",5449,6,NH,5000,Pro-Administration,-0.37,0.107
+2,19,1792-02-23,12,15,"Lee, Richard Henry",5565,1,VA,4000,Anti-Administration,-0.384,-0.54
+2,19,1792-02-23,12,15,"Monroe, James",6594,1,VA,4000,Anti-Administration,-0.514,-0.762
+2,19,1792-02-23,12,15,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,19,1792-02-23,12,15,"Read, George",7762,6,DE,5000,Pro-Administration,0.282,-0.239
+2,19,1792-02-23,12,15,"Robinson, Moses",7989,1,VT,4000,Anti-Administration,-0.732,0.649
+2,19,1792-02-23,12,15,"Rutherfurd, John",8150,6,NJ,5000,Pro-Administration,0.871,-0.252
+2,19,1792-02-23,12,15,"Sherman, Roger",8457,1,CT,5000,Pro-Administration,0.589,0.307
+2,19,1792-02-23,12,15,"Stanton, Joseph, Jr.",8845,1,RI,4000,Anti-Administration,-0.091,0.736
+2,19,1792-02-23,12,15,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,19,1792-02-23,12,15,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,20,1792-02-23,16,11,"Bassett, Richard",507,1,DE,5000,Pro-Administration,0.087,0.007
+2,20,1792-02-23,16,11,"Bradley, Stephen Row",956,6,VT,4000,Anti-Administration,0.09,-0.202
+2,20,1792-02-23,16,11,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,20,1792-02-23,16,11,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,20,1792-02-23,16,11,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,20,1792-02-23,16,11,"Carroll, Charles (Of Carrollton)",1536,1,MD,5000,Pro-Administration,0.234,-0.619
+2,20,1792-02-23,16,11,"Dickinson, Philemon",2576,1,NJ,5000,Pro-Administration,0.609,-0.696
+2,20,1792-02-23,16,11,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,20,1792-02-23,16,11,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,20,1792-02-23,16,11,"Foster, Theodore",3315,6,RI,5000,Pro-Administration,0.286,0.675
+2,20,1792-02-23,16,11,"Gunn, James",3877,1,GA,4000,Anti-Administration,0.218,-0.884
+2,20,1792-02-23,16,11,"Hawkins, Benjamin",4212,1,NC,4000,Anti-Administration,-0.046,-0.664
+2,20,1792-02-23,16,11,"Henry, John",4333,1,MD,5000,Pro-Administration,0.123,-0.573
+2,20,1792-02-23,16,11,"Izard, Ralph",4837,1,SC,5000,Pro-Administration,0.446,-0.587
+2,20,1792-02-23,16,11,"Johnston, Samuel",5012,1,NC,5000,Pro-Administration,-0.025,-0.527
+2,20,1792-02-23,16,11,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,20,1792-02-23,16,11,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,20,1792-02-23,16,11,"Lee, Richard Henry",5565,6,VA,4000,Anti-Administration,-0.384,-0.54
+2,20,1792-02-23,16,11,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,20,1792-02-23,16,11,"Morris, Robert",6712,1,PA,5000,Pro-Administration,0.7,-0.691
+2,20,1792-02-23,16,11,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,20,1792-02-23,16,11,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,20,1792-02-23,16,11,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,20,1792-02-23,16,11,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,20,1792-02-23,16,11,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,20,1792-02-23,16,11,"Strong, Caleb",9028,6,MA,5000,Pro-Administration,0.566,0.824
+2,20,1792-02-23,16,11,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,21,1792-02-23,11,16,"Bassett, Richard",507,1,DE,5000,Pro-Administration,0.087,0.007
+2,21,1792-02-23,11,16,"Bradley, Stephen Row",956,6,VT,4000,Anti-Administration,0.09,-0.202
+2,21,1792-02-23,11,16,"Burr, Aaron",1302,6,NY,4000,Anti-Administration,-0.887,-0.462
+2,21,1792-02-23,11,16,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,21,1792-02-23,11,16,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,21,1792-02-23,11,16,"Carroll, Charles (Of Carrollton)",1536,6,MD,5000,Pro-Administration,0.234,-0.619
+2,21,1792-02-23,11,16,"Dickinson, Philemon",2576,1,NJ,5000,Pro-Administration,0.609,-0.696
+2,21,1792-02-23,11,16,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,21,1792-02-23,11,16,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,21,1792-02-23,11,16,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,21,1792-02-23,11,16,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,21,1792-02-23,11,16,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,21,1792-02-23,11,16,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,21,1792-02-23,11,16,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,21,1792-02-23,11,16,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,21,1792-02-23,11,16,"King, Rufus",5270,6,NY,5000,Pro-Administration,0.575,-0.302
+2,21,1792-02-23,11,16,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,21,1792-02-23,11,16,"Lee, Richard Henry",5565,6,VA,4000,Anti-Administration,-0.384,-0.54
+2,21,1792-02-23,11,16,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,21,1792-02-23,11,16,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,21,1792-02-23,11,16,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,21,1792-02-23,11,16,"Robinson, Moses",7989,1,VT,4000,Anti-Administration,-0.732,0.649
+2,21,1792-02-23,11,16,"Rutherfurd, John",8150,6,NJ,5000,Pro-Administration,0.871,-0.252
+2,21,1792-02-23,11,16,"Sherman, Roger",8457,1,CT,5000,Pro-Administration,0.589,0.307
+2,21,1792-02-23,11,16,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,21,1792-02-23,11,16,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,21,1792-02-23,11,16,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,22,1792-02-29,16,9,"Bassett, Richard",507,6,DE,5000,Pro-Administration,0.087,0.007
+2,22,1792-02-29,16,9,"Bradley, Stephen Row",956,1,VT,4000,Anti-Administration,0.09,-0.202
+2,22,1792-02-29,16,9,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,22,1792-02-29,16,9,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,22,1792-02-29,16,9,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,22,1792-02-29,16,9,"Carroll, Charles (Of Carrollton)",1536,1,MD,5000,Pro-Administration,0.234,-0.619
+2,22,1792-02-29,16,9,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,22,1792-02-29,16,9,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,22,1792-02-29,16,9,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,22,1792-02-29,16,9,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,22,1792-02-29,16,9,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,22,1792-02-29,16,9,"Hawkins, Benjamin",4212,1,NC,4000,Anti-Administration,-0.046,-0.664
+2,22,1792-02-29,16,9,"Henry, John",4333,9,MD,5000,Pro-Administration,0.123,-0.573
+2,22,1792-02-29,16,9,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,22,1792-02-29,16,9,"Johnston, Samuel",5012,1,NC,5000,Pro-Administration,-0.025,-0.527
+2,22,1792-02-29,16,9,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,22,1792-02-29,16,9,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,22,1792-02-29,16,9,"Lee, Richard Henry",5565,1,VA,4000,Anti-Administration,-0.384,-0.54
+2,22,1792-02-29,16,9,"Monroe, James",6594,1,VA,4000,Anti-Administration,-0.514,-0.762
+2,22,1792-02-29,16,9,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,22,1792-02-29,16,9,"Read, George",7762,6,DE,5000,Pro-Administration,0.282,-0.239
+2,22,1792-02-29,16,9,"Robinson, Moses",7989,9,VT,4000,Anti-Administration,-0.732,0.649
+2,22,1792-02-29,16,9,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,22,1792-02-29,16,9,"Sherman, Roger",8457,1,CT,5000,Pro-Administration,0.589,0.307
+2,22,1792-02-29,16,9,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,22,1792-02-29,16,9,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,22,1792-02-29,16,9,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,23,1792-03-06,13,14,"Bassett, Richard",507,1,DE,5000,Pro-Administration,0.087,0.007
+2,23,1792-03-06,13,14,"Bradley, Stephen Row",956,1,VT,4000,Anti-Administration,0.09,-0.202
+2,23,1792-03-06,13,14,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,23,1792-03-06,13,14,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,23,1792-03-06,13,14,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,23,1792-03-06,13,14,"Carroll, Charles (Of Carrollton)",1536,6,MD,5000,Pro-Administration,0.234,-0.619
+2,23,1792-03-06,13,14,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,23,1792-03-06,13,14,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,23,1792-03-06,13,14,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,23,1792-03-06,13,14,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,23,1792-03-06,13,14,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,23,1792-03-06,13,14,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,23,1792-03-06,13,14,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,23,1792-03-06,13,14,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,23,1792-03-06,13,14,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,23,1792-03-06,13,14,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,23,1792-03-06,13,14,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,23,1792-03-06,13,14,"Lee, Richard Henry",5565,6,VA,4000,Anti-Administration,-0.384,-0.54
+2,23,1792-03-06,13,14,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,23,1792-03-06,13,14,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,23,1792-03-06,13,14,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,23,1792-03-06,13,14,"Robinson, Moses",7989,1,VT,4000,Anti-Administration,-0.732,0.649
+2,23,1792-03-06,13,14,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,23,1792-03-06,13,14,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,23,1792-03-06,13,14,"Stanton, Joseph, Jr.",8845,1,RI,4000,Anti-Administration,-0.091,0.736
+2,23,1792-03-06,13,14,"Strong, Caleb",9028,6,MA,5000,Pro-Administration,0.566,0.824
+2,23,1792-03-06,13,14,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,24,1792-03-06,15,12,"Bassett, Richard",507,1,DE,5000,Pro-Administration,0.087,0.007
+2,24,1792-03-06,15,12,"Bradley, Stephen Row",956,1,VT,4000,Anti-Administration,0.09,-0.202
+2,24,1792-03-06,15,12,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,24,1792-03-06,15,12,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,24,1792-03-06,15,12,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,24,1792-03-06,15,12,"Carroll, Charles (Of Carrollton)",1536,6,MD,5000,Pro-Administration,0.234,-0.619
+2,24,1792-03-06,15,12,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,24,1792-03-06,15,12,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,24,1792-03-06,15,12,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,24,1792-03-06,15,12,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,24,1792-03-06,15,12,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,24,1792-03-06,15,12,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,24,1792-03-06,15,12,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,24,1792-03-06,15,12,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,24,1792-03-06,15,12,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,24,1792-03-06,15,12,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,24,1792-03-06,15,12,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,24,1792-03-06,15,12,"Lee, Richard Henry",5565,6,VA,4000,Anti-Administration,-0.384,-0.54
+2,24,1792-03-06,15,12,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,24,1792-03-06,15,12,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,24,1792-03-06,15,12,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,24,1792-03-06,15,12,"Robinson, Moses",7989,1,VT,4000,Anti-Administration,-0.732,0.649
+2,24,1792-03-06,15,12,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,24,1792-03-06,15,12,"Sherman, Roger",8457,1,CT,5000,Pro-Administration,0.589,0.307
+2,24,1792-03-06,15,12,"Stanton, Joseph, Jr.",8845,1,RI,4000,Anti-Administration,-0.091,0.736
+2,24,1792-03-06,15,12,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,24,1792-03-06,15,12,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,25,1792-03-06,11,16,"Bassett, Richard",507,6,DE,5000,Pro-Administration,0.087,0.007
+2,25,1792-03-06,11,16,"Bradley, Stephen Row",956,1,VT,4000,Anti-Administration,0.09,-0.202
+2,25,1792-03-06,11,16,"Burr, Aaron",1302,6,NY,4000,Anti-Administration,-0.887,-0.462
+2,25,1792-03-06,11,16,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,25,1792-03-06,11,16,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,25,1792-03-06,11,16,"Carroll, Charles (Of Carrollton)",1536,6,MD,5000,Pro-Administration,0.234,-0.619
+2,25,1792-03-06,11,16,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,25,1792-03-06,11,16,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,25,1792-03-06,11,16,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,25,1792-03-06,11,16,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,25,1792-03-06,11,16,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,25,1792-03-06,11,16,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,25,1792-03-06,11,16,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,25,1792-03-06,11,16,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,25,1792-03-06,11,16,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,25,1792-03-06,11,16,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,25,1792-03-06,11,16,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,25,1792-03-06,11,16,"Lee, Richard Henry",5565,6,VA,4000,Anti-Administration,-0.384,-0.54
+2,25,1792-03-06,11,16,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,25,1792-03-06,11,16,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,25,1792-03-06,11,16,"Read, George",7762,6,DE,5000,Pro-Administration,0.282,-0.239
+2,25,1792-03-06,11,16,"Robinson, Moses",7989,1,VT,4000,Anti-Administration,-0.732,0.649
+2,25,1792-03-06,11,16,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,25,1792-03-06,11,16,"Sherman, Roger",8457,1,CT,5000,Pro-Administration,0.589,0.307
+2,25,1792-03-06,11,16,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,25,1792-03-06,11,16,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,25,1792-03-06,11,16,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,26,1792-03-06,15,12,"Bassett, Richard",507,1,DE,5000,Pro-Administration,0.087,0.007
+2,26,1792-03-06,15,12,"Bradley, Stephen Row",956,6,VT,4000,Anti-Administration,0.09,-0.202
+2,26,1792-03-06,15,12,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,26,1792-03-06,15,12,"Butler, Pierce",1346,1,SC,4000,Anti-Administration,-0.4,-0.912
+2,26,1792-03-06,15,12,"Cabot, George",1384,6,MA,5000,Pro-Administration,0.657,0.569
+2,26,1792-03-06,15,12,"Carroll, Charles (Of Carrollton)",1536,1,MD,5000,Pro-Administration,0.234,-0.619
+2,26,1792-03-06,15,12,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,26,1792-03-06,15,12,"Ellsworth, Oliver",2936,6,CT,5000,Pro-Administration,0.53,0.809
+2,26,1792-03-06,15,12,"Few, William",3128,1,GA,4000,Anti-Administration,-0.505,-0.433
+2,26,1792-03-06,15,12,"Foster, Theodore",3315,6,RI,5000,Pro-Administration,0.286,0.675
+2,26,1792-03-06,15,12,"Gunn, James",3877,1,GA,4000,Anti-Administration,0.218,-0.884
+2,26,1792-03-06,15,12,"Hawkins, Benjamin",4212,1,NC,4000,Anti-Administration,-0.046,-0.664
+2,26,1792-03-06,15,12,"Henry, John",4333,1,MD,5000,Pro-Administration,0.123,-0.573
+2,26,1792-03-06,15,12,"Izard, Ralph",4837,1,SC,5000,Pro-Administration,0.446,-0.587
+2,26,1792-03-06,15,12,"Johnston, Samuel",5012,1,NC,5000,Pro-Administration,-0.025,-0.527
+2,26,1792-03-06,15,12,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,26,1792-03-06,15,12,"Langdon, John",5449,6,NH,5000,Pro-Administration,-0.37,0.107
+2,26,1792-03-06,15,12,"Lee, Richard Henry",5565,1,VA,4000,Anti-Administration,-0.384,-0.54
+2,26,1792-03-06,15,12,"Monroe, James",6594,1,VA,4000,Anti-Administration,-0.514,-0.762
+2,26,1792-03-06,15,12,"Morris, Robert",6712,1,PA,5000,Pro-Administration,0.7,-0.691
+2,26,1792-03-06,15,12,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,26,1792-03-06,15,12,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,26,1792-03-06,15,12,"Rutherfurd, John",8150,6,NJ,5000,Pro-Administration,0.871,-0.252
+2,26,1792-03-06,15,12,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,26,1792-03-06,15,12,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,26,1792-03-06,15,12,"Strong, Caleb",9028,6,MA,5000,Pro-Administration,0.566,0.824
+2,26,1792-03-06,15,12,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,27,1792-03-06,14,13,"Bassett, Richard",507,6,DE,5000,Pro-Administration,0.087,0.007
+2,27,1792-03-06,14,13,"Bradley, Stephen Row",956,1,VT,4000,Anti-Administration,0.09,-0.202
+2,27,1792-03-06,14,13,"Burr, Aaron",1302,6,NY,4000,Anti-Administration,-0.887,-0.462
+2,27,1792-03-06,14,13,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,27,1792-03-06,14,13,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,27,1792-03-06,14,13,"Carroll, Charles (Of Carrollton)",1536,1,MD,5000,Pro-Administration,0.234,-0.619
+2,27,1792-03-06,14,13,"Dickinson, Philemon",2576,1,NJ,5000,Pro-Administration,0.609,-0.696
+2,27,1792-03-06,14,13,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,27,1792-03-06,14,13,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,27,1792-03-06,14,13,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,27,1792-03-06,14,13,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,27,1792-03-06,14,13,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,27,1792-03-06,14,13,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,27,1792-03-06,14,13,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,27,1792-03-06,14,13,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,27,1792-03-06,14,13,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,27,1792-03-06,14,13,"Langdon, John",5449,6,NH,5000,Pro-Administration,-0.37,0.107
+2,27,1792-03-06,14,13,"Lee, Richard Henry",5565,6,VA,4000,Anti-Administration,-0.384,-0.54
+2,27,1792-03-06,14,13,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,27,1792-03-06,14,13,"Morris, Robert",6712,1,PA,5000,Pro-Administration,0.7,-0.691
+2,27,1792-03-06,14,13,"Read, George",7762,6,DE,5000,Pro-Administration,0.282,-0.239
+2,27,1792-03-06,14,13,"Robinson, Moses",7989,1,VT,4000,Anti-Administration,-0.732,0.649
+2,27,1792-03-06,14,13,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,27,1792-03-06,14,13,"Sherman, Roger",8457,1,CT,5000,Pro-Administration,0.589,0.307
+2,27,1792-03-06,14,13,"Stanton, Joseph, Jr.",8845,1,RI,4000,Anti-Administration,-0.091,0.736
+2,27,1792-03-06,14,13,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,27,1792-03-06,14,13,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,28,1792-03-12,14,13,"Bassett, Richard",507,1,DE,5000,Pro-Administration,0.087,0.007
+2,28,1792-03-12,14,13,"Bradley, Stephen Row",956,1,VT,4000,Anti-Administration,0.09,-0.202
+2,28,1792-03-12,14,13,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,28,1792-03-12,14,13,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,28,1792-03-12,14,13,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,28,1792-03-12,14,13,"Carroll, Charles (Of Carrollton)",1536,6,MD,5000,Pro-Administration,0.234,-0.619
+2,28,1792-03-12,14,13,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,28,1792-03-12,14,13,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,28,1792-03-12,14,13,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,28,1792-03-12,14,13,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,28,1792-03-12,14,13,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,28,1792-03-12,14,13,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,28,1792-03-12,14,13,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,28,1792-03-12,14,13,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,28,1792-03-12,14,13,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,28,1792-03-12,14,13,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,28,1792-03-12,14,13,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,28,1792-03-12,14,13,"Lee, Richard Henry",5565,6,VA,4000,Anti-Administration,-0.384,-0.54
+2,28,1792-03-12,14,13,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,28,1792-03-12,14,13,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,28,1792-03-12,14,13,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,28,1792-03-12,14,13,"Robinson, Moses",7989,1,VT,4000,Anti-Administration,-0.732,0.649
+2,28,1792-03-12,14,13,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,28,1792-03-12,14,13,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,28,1792-03-12,14,13,"Stanton, Joseph, Jr.",8845,1,RI,4000,Anti-Administration,-0.091,0.736
+2,28,1792-03-12,14,13,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,28,1792-03-12,14,13,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,29,1792-03-12,7,20,"Bassett, Richard",507,6,DE,5000,Pro-Administration,0.087,0.007
+2,29,1792-03-12,7,20,"Bradley, Stephen Row",956,6,VT,4000,Anti-Administration,0.09,-0.202
+2,29,1792-03-12,7,20,"Burr, Aaron",1302,6,NY,4000,Anti-Administration,-0.887,-0.462
+2,29,1792-03-12,7,20,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,29,1792-03-12,7,20,"Cabot, George",1384,6,MA,5000,Pro-Administration,0.657,0.569
+2,29,1792-03-12,7,20,"Carroll, Charles (Of Carrollton)",1536,1,MD,5000,Pro-Administration,0.234,-0.619
+2,29,1792-03-12,7,20,"Dickinson, Philemon",2576,1,NJ,5000,Pro-Administration,0.609,-0.696
+2,29,1792-03-12,7,20,"Ellsworth, Oliver",2936,6,CT,5000,Pro-Administration,0.53,0.809
+2,29,1792-03-12,7,20,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,29,1792-03-12,7,20,"Foster, Theodore",3315,6,RI,5000,Pro-Administration,0.286,0.675
+2,29,1792-03-12,7,20,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,29,1792-03-12,7,20,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,29,1792-03-12,7,20,"Henry, John",4333,1,MD,5000,Pro-Administration,0.123,-0.573
+2,29,1792-03-12,7,20,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,29,1792-03-12,7,20,"Johnston, Samuel",5012,1,NC,5000,Pro-Administration,-0.025,-0.527
+2,29,1792-03-12,7,20,"King, Rufus",5270,6,NY,5000,Pro-Administration,0.575,-0.302
+2,29,1792-03-12,7,20,"Langdon, John",5449,6,NH,5000,Pro-Administration,-0.37,0.107
+2,29,1792-03-12,7,20,"Lee, Richard Henry",5565,1,VA,4000,Anti-Administration,-0.384,-0.54
+2,29,1792-03-12,7,20,"Monroe, James",6594,1,VA,4000,Anti-Administration,-0.514,-0.762
+2,29,1792-03-12,7,20,"Morris, Robert",6712,1,PA,5000,Pro-Administration,0.7,-0.691
+2,29,1792-03-12,7,20,"Read, George",7762,6,DE,5000,Pro-Administration,0.282,-0.239
+2,29,1792-03-12,7,20,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,29,1792-03-12,7,20,"Rutherfurd, John",8150,6,NJ,5000,Pro-Administration,0.871,-0.252
+2,29,1792-03-12,7,20,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,29,1792-03-12,7,20,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,29,1792-03-12,7,20,"Strong, Caleb",9028,6,MA,5000,Pro-Administration,0.566,0.824
+2,29,1792-03-12,7,20,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,30,1792-03-12,11,16,"Bassett, Richard",507,1,DE,5000,Pro-Administration,0.087,0.007
+2,30,1792-03-12,11,16,"Bradley, Stephen Row",956,1,VT,4000,Anti-Administration,0.09,-0.202
+2,30,1792-03-12,11,16,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,30,1792-03-12,11,16,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,30,1792-03-12,11,16,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,30,1792-03-12,11,16,"Carroll, Charles (Of Carrollton)",1536,6,MD,5000,Pro-Administration,0.234,-0.619
+2,30,1792-03-12,11,16,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,30,1792-03-12,11,16,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,30,1792-03-12,11,16,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,30,1792-03-12,11,16,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,30,1792-03-12,11,16,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,30,1792-03-12,11,16,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,30,1792-03-12,11,16,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,30,1792-03-12,11,16,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,30,1792-03-12,11,16,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,30,1792-03-12,11,16,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,30,1792-03-12,11,16,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,30,1792-03-12,11,16,"Lee, Richard Henry",5565,6,VA,4000,Anti-Administration,-0.384,-0.54
+2,30,1792-03-12,11,16,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,30,1792-03-12,11,16,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,30,1792-03-12,11,16,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,30,1792-03-12,11,16,"Robinson, Moses",7989,1,VT,4000,Anti-Administration,-0.732,0.649
+2,30,1792-03-12,11,16,"Rutherfurd, John",8150,6,NJ,5000,Pro-Administration,0.871,-0.252
+2,30,1792-03-12,11,16,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,30,1792-03-12,11,16,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,30,1792-03-12,11,16,"Strong, Caleb",9028,6,MA,5000,Pro-Administration,0.566,0.824
+2,30,1792-03-12,11,16,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,31,1792-03-12,14,13,"Bassett, Richard",507,1,DE,5000,Pro-Administration,0.087,0.007
+2,31,1792-03-12,14,13,"Bradley, Stephen Row",956,1,VT,4000,Anti-Administration,0.09,-0.202
+2,31,1792-03-12,14,13,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,31,1792-03-12,14,13,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,31,1792-03-12,14,13,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,31,1792-03-12,14,13,"Carroll, Charles (Of Carrollton)",1536,6,MD,5000,Pro-Administration,0.234,-0.619
+2,31,1792-03-12,14,13,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,31,1792-03-12,14,13,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,31,1792-03-12,14,13,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,31,1792-03-12,14,13,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,31,1792-03-12,14,13,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,31,1792-03-12,14,13,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,31,1792-03-12,14,13,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,31,1792-03-12,14,13,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,31,1792-03-12,14,13,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,31,1792-03-12,14,13,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,31,1792-03-12,14,13,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,31,1792-03-12,14,13,"Lee, Richard Henry",5565,6,VA,4000,Anti-Administration,-0.384,-0.54
+2,31,1792-03-12,14,13,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,31,1792-03-12,14,13,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,31,1792-03-12,14,13,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,31,1792-03-12,14,13,"Robinson, Moses",7989,1,VT,4000,Anti-Administration,-0.732,0.649
+2,31,1792-03-12,14,13,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,31,1792-03-12,14,13,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,31,1792-03-12,14,13,"Stanton, Joseph, Jr.",8845,1,RI,4000,Anti-Administration,-0.091,0.736
+2,31,1792-03-12,14,13,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,31,1792-03-12,14,13,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,32,1792-03-13,6,21,"Bassett, Richard",507,1,DE,5000,Pro-Administration,0.087,0.007
+2,32,1792-03-13,6,21,"Bradley, Stephen Row",956,6,VT,4000,Anti-Administration,0.09,-0.202
+2,32,1792-03-13,6,21,"Burr, Aaron",1302,6,NY,4000,Anti-Administration,-0.887,-0.462
+2,32,1792-03-13,6,21,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,32,1792-03-13,6,21,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,32,1792-03-13,6,21,"Carroll, Charles (Of Carrollton)",1536,6,MD,5000,Pro-Administration,0.234,-0.619
+2,32,1792-03-13,6,21,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,32,1792-03-13,6,21,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,32,1792-03-13,6,21,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,32,1792-03-13,6,21,"Foster, Theodore",3315,6,RI,5000,Pro-Administration,0.286,0.675
+2,32,1792-03-13,6,21,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,32,1792-03-13,6,21,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,32,1792-03-13,6,21,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,32,1792-03-13,6,21,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,32,1792-03-13,6,21,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,32,1792-03-13,6,21,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,32,1792-03-13,6,21,"Langdon, John",5449,6,NH,5000,Pro-Administration,-0.37,0.107
+2,32,1792-03-13,6,21,"Lee, Richard Henry",5565,6,VA,4000,Anti-Administration,-0.384,-0.54
+2,32,1792-03-13,6,21,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,32,1792-03-13,6,21,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,32,1792-03-13,6,21,"Read, George",7762,6,DE,5000,Pro-Administration,0.282,-0.239
+2,32,1792-03-13,6,21,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,32,1792-03-13,6,21,"Rutherfurd, John",8150,6,NJ,5000,Pro-Administration,0.871,-0.252
+2,32,1792-03-13,6,21,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,32,1792-03-13,6,21,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,32,1792-03-13,6,21,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,32,1792-03-13,6,21,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,33,1792-03-22,14,13,"Bassett, Richard",507,1,DE,5000,Pro-Administration,0.087,0.007
+2,33,1792-03-22,14,13,"Bradley, Stephen Row",956,1,VT,4000,Anti-Administration,0.09,-0.202
+2,33,1792-03-22,14,13,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,33,1792-03-22,14,13,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,33,1792-03-22,14,13,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,33,1792-03-22,14,13,"Carroll, Charles (Of Carrollton)",1536,6,MD,5000,Pro-Administration,0.234,-0.619
+2,33,1792-03-22,14,13,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,33,1792-03-22,14,13,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,33,1792-03-22,14,13,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,33,1792-03-22,14,13,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,33,1792-03-22,14,13,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,33,1792-03-22,14,13,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,33,1792-03-22,14,13,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,33,1792-03-22,14,13,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,33,1792-03-22,14,13,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,33,1792-03-22,14,13,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,33,1792-03-22,14,13,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,33,1792-03-22,14,13,"Lee, Richard Henry",5565,6,VA,4000,Anti-Administration,-0.384,-0.54
+2,33,1792-03-22,14,13,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,33,1792-03-22,14,13,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,33,1792-03-22,14,13,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,33,1792-03-22,14,13,"Robinson, Moses",7989,1,VT,4000,Anti-Administration,-0.732,0.649
+2,33,1792-03-22,14,13,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,33,1792-03-22,14,13,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,33,1792-03-22,14,13,"Stanton, Joseph, Jr.",8845,1,RI,4000,Anti-Administration,-0.091,0.736
+2,33,1792-03-22,14,13,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,33,1792-03-22,14,13,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,34,1792-03-22,9,17,"Bassett, Richard",507,6,DE,5000,Pro-Administration,0.087,0.007
+2,34,1792-03-22,9,17,"Bradley, Stephen Row",956,6,VT,4000,Anti-Administration,0.09,-0.202
+2,34,1792-03-22,9,17,"Burr, Aaron",1302,6,NY,4000,Anti-Administration,-0.887,-0.462
+2,34,1792-03-22,9,17,"Butler, Pierce",1346,9,SC,4000,Anti-Administration,-0.4,-0.912
+2,34,1792-03-22,9,17,"Cabot, George",1384,6,MA,5000,Pro-Administration,0.657,0.569
+2,34,1792-03-22,9,17,"Carroll, Charles (Of Carrollton)",1536,1,MD,5000,Pro-Administration,0.234,-0.619
+2,34,1792-03-22,9,17,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,34,1792-03-22,9,17,"Ellsworth, Oliver",2936,6,CT,5000,Pro-Administration,0.53,0.809
+2,34,1792-03-22,9,17,"Few, William",3128,1,GA,4000,Anti-Administration,-0.505,-0.433
+2,34,1792-03-22,9,17,"Foster, Theodore",3315,6,RI,5000,Pro-Administration,0.286,0.675
+2,34,1792-03-22,9,17,"Gunn, James",3877,1,GA,4000,Anti-Administration,0.218,-0.884
+2,34,1792-03-22,9,17,"Hawkins, Benjamin",4212,1,NC,4000,Anti-Administration,-0.046,-0.664
+2,34,1792-03-22,9,17,"Henry, John",4333,1,MD,5000,Pro-Administration,0.123,-0.573
+2,34,1792-03-22,9,17,"Izard, Ralph",4837,1,SC,5000,Pro-Administration,0.446,-0.587
+2,34,1792-03-22,9,17,"Johnston, Samuel",5012,1,NC,5000,Pro-Administration,-0.025,-0.527
+2,34,1792-03-22,9,17,"King, Rufus",5270,6,NY,5000,Pro-Administration,0.575,-0.302
+2,34,1792-03-22,9,17,"Langdon, John",5449,6,NH,5000,Pro-Administration,-0.37,0.107
+2,34,1792-03-22,9,17,"Lee, Richard Henry",5565,1,VA,4000,Anti-Administration,-0.384,-0.54
+2,34,1792-03-22,9,17,"Monroe, James",6594,1,VA,4000,Anti-Administration,-0.514,-0.762
+2,34,1792-03-22,9,17,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,34,1792-03-22,9,17,"Read, George",7762,6,DE,5000,Pro-Administration,0.282,-0.239
+2,34,1792-03-22,9,17,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,34,1792-03-22,9,17,"Rutherfurd, John",8150,6,NJ,5000,Pro-Administration,0.871,-0.252
+2,34,1792-03-22,9,17,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,34,1792-03-22,9,17,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,34,1792-03-22,9,17,"Strong, Caleb",9028,6,MA,5000,Pro-Administration,0.566,0.824
+2,34,1792-03-22,9,17,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,35,1792-03-26,8,17,"Bassett, Richard",507,6,DE,5000,Pro-Administration,0.087,0.007
+2,35,1792-03-26,8,17,"Bradley, Stephen Row",956,6,VT,4000,Anti-Administration,0.09,-0.202
+2,35,1792-03-26,8,17,"Burr, Aaron",1302,9,NY,4000,Anti-Administration,-0.887,-0.462
+2,35,1792-03-26,8,17,"Butler, Pierce",1346,1,SC,4000,Anti-Administration,-0.4,-0.912
+2,35,1792-03-26,8,17,"Cabot, George",1384,6,MA,5000,Pro-Administration,0.657,0.569
+2,35,1792-03-26,8,17,"Carroll, Charles (Of Carrollton)",1536,1,MD,5000,Pro-Administration,0.234,-0.619
+2,35,1792-03-26,8,17,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,35,1792-03-26,8,17,"Ellsworth, Oliver",2936,6,CT,5000,Pro-Administration,0.53,0.809
+2,35,1792-03-26,8,17,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,35,1792-03-26,8,17,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,35,1792-03-26,8,17,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,35,1792-03-26,8,17,"Hawkins, Benjamin",4212,1,NC,4000,Anti-Administration,-0.046,-0.664
+2,35,1792-03-26,8,17,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,35,1792-03-26,8,17,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,35,1792-03-26,8,17,"Johnston, Samuel",5012,1,NC,5000,Pro-Administration,-0.025,-0.527
+2,35,1792-03-26,8,17,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,35,1792-03-26,8,17,"Langdon, John",5449,6,NH,5000,Pro-Administration,-0.37,0.107
+2,35,1792-03-26,8,17,"Lee, Richard Henry",5565,1,VA,4000,Anti-Administration,-0.384,-0.54
+2,35,1792-03-26,8,17,"Monroe, James",6594,1,VA,4000,Anti-Administration,-0.514,-0.762
+2,35,1792-03-26,8,17,"Morris, Robert",6712,9,PA,5000,Pro-Administration,0.7,-0.691
+2,35,1792-03-26,8,17,"Read, George",7762,6,DE,5000,Pro-Administration,0.282,-0.239
+2,35,1792-03-26,8,17,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,35,1792-03-26,8,17,"Rutherfurd, John",8150,6,NJ,5000,Pro-Administration,0.871,-0.252
+2,35,1792-03-26,8,17,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,35,1792-03-26,8,17,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,35,1792-03-26,8,17,"Strong, Caleb",9028,6,MA,5000,Pro-Administration,0.566,0.824
+2,35,1792-03-26,8,17,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,36,1792-03-29,22,1,"Bassett, Richard",507,1,DE,5000,Pro-Administration,0.087,0.007
+2,36,1792-03-29,22,1,"Bradley, Stephen Row",956,1,VT,4000,Anti-Administration,0.09,-0.202
+2,36,1792-03-29,22,1,"Burr, Aaron",1302,9,NY,4000,Anti-Administration,-0.887,-0.462
+2,36,1792-03-29,22,1,"Butler, Pierce",1346,9,SC,4000,Anti-Administration,-0.4,-0.912
+2,36,1792-03-29,22,1,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,36,1792-03-29,22,1,"Carroll, Charles (Of Carrollton)",1536,1,MD,5000,Pro-Administration,0.234,-0.619
+2,36,1792-03-29,22,1,"Dickinson, Philemon",2576,9,NJ,5000,Pro-Administration,0.609,-0.696
+2,36,1792-03-29,22,1,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,36,1792-03-29,22,1,"Few, William",3128,1,GA,4000,Anti-Administration,-0.505,-0.433
+2,36,1792-03-29,22,1,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,36,1792-03-29,22,1,"Gunn, James",3877,1,GA,4000,Anti-Administration,0.218,-0.884
+2,36,1792-03-29,22,1,"Hawkins, Benjamin",4212,1,NC,4000,Anti-Administration,-0.046,-0.664
+2,36,1792-03-29,22,1,"Henry, John",4333,1,MD,5000,Pro-Administration,0.123,-0.573
+2,36,1792-03-29,22,1,"Izard, Ralph",4837,1,SC,5000,Pro-Administration,0.446,-0.587
+2,36,1792-03-29,22,1,"Johnston, Samuel",5012,1,NC,5000,Pro-Administration,-0.025,-0.527
+2,36,1792-03-29,22,1,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,36,1792-03-29,22,1,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,36,1792-03-29,22,1,"Lee, Richard Henry",5565,1,VA,4000,Anti-Administration,-0.384,-0.54
+2,36,1792-03-29,22,1,"Monroe, James",6594,1,VA,4000,Anti-Administration,-0.514,-0.762
+2,36,1792-03-29,22,1,"Morris, Robert",6712,9,PA,5000,Pro-Administration,0.7,-0.691
+2,36,1792-03-29,22,1,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,36,1792-03-29,22,1,"Robinson, Moses",7989,1,VT,4000,Anti-Administration,-0.732,0.649
+2,36,1792-03-29,22,1,"Rutherfurd, John",8150,6,NJ,5000,Pro-Administration,0.871,-0.252
+2,36,1792-03-29,22,1,"Sherman, Roger",8457,1,CT,5000,Pro-Administration,0.589,0.307
+2,36,1792-03-29,22,1,"Stanton, Joseph, Jr.",8845,1,RI,4000,Anti-Administration,-0.091,0.736
+2,36,1792-03-29,22,1,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,36,1792-03-29,22,1,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,37,1792-04-16,11,11,"Bassett, Richard",507,9,DE,5000,Pro-Administration,0.087,0.007
+2,37,1792-04-16,11,11,"Bradley, Stephen Row",956,1,VT,4000,Anti-Administration,0.09,-0.202
+2,37,1792-04-16,11,11,"Burr, Aaron",1302,6,NY,4000,Anti-Administration,-0.887,-0.462
+2,37,1792-04-16,11,11,"Butler, Pierce",1346,9,SC,4000,Anti-Administration,-0.4,-0.912
+2,37,1792-04-16,11,11,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,37,1792-04-16,11,11,"Carroll, Charles (Of Carrollton)",1536,6,MD,5000,Pro-Administration,0.234,-0.619
+2,37,1792-04-16,11,11,"Dickinson, Philemon",2576,9,NJ,5000,Pro-Administration,0.609,-0.696
+2,37,1792-04-16,11,11,"Ellsworth, Oliver",2936,6,CT,5000,Pro-Administration,0.53,0.809
+2,37,1792-04-16,11,11,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,37,1792-04-16,11,11,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,37,1792-04-16,11,11,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,37,1792-04-16,11,11,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,37,1792-04-16,11,11,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,37,1792-04-16,11,11,"Izard, Ralph",4837,1,SC,5000,Pro-Administration,0.446,-0.587
+2,37,1792-04-16,11,11,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,37,1792-04-16,11,11,"King, Rufus",5270,9,NY,5000,Pro-Administration,0.575,-0.302
+2,37,1792-04-16,11,11,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,37,1792-04-16,11,11,"Lee, Richard Henry",5565,1,VA,4000,Anti-Administration,-0.384,-0.54
+2,37,1792-04-16,11,11,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,37,1792-04-16,11,11,"Morris, Robert",6712,1,PA,5000,Pro-Administration,0.7,-0.691
+2,37,1792-04-16,11,11,"Read, George",7762,6,DE,5000,Pro-Administration,0.282,-0.239
+2,37,1792-04-16,11,11,"Robinson, Moses",7989,1,VT,4000,Anti-Administration,-0.732,0.649
+2,37,1792-04-16,11,11,"Rutherfurd, John",8150,6,NJ,5000,Pro-Administration,0.871,-0.252
+2,37,1792-04-16,11,11,"Sherman, Roger",8457,1,CT,5000,Pro-Administration,0.589,0.307
+2,37,1792-04-16,11,11,"Stanton, Joseph, Jr.",8845,1,RI,4000,Anti-Administration,-0.091,0.736
+2,37,1792-04-16,11,11,"Strong, Caleb",9028,9,MA,5000,Pro-Administration,0.566,0.824
+2,37,1792-04-16,11,11,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,38,1792-04-17,20,3,"Bassett, Richard",507,9,DE,5000,Pro-Administration,0.087,0.007
+2,38,1792-04-17,20,3,"Bradley, Stephen Row",956,6,VT,4000,Anti-Administration,0.09,-0.202
+2,38,1792-04-17,20,3,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,38,1792-04-17,20,3,"Butler, Pierce",1346,9,SC,4000,Anti-Administration,-0.4,-0.912
+2,38,1792-04-17,20,3,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,38,1792-04-17,20,3,"Carroll, Charles (Of Carrollton)",1536,1,MD,5000,Pro-Administration,0.234,-0.619
+2,38,1792-04-17,20,3,"Dickinson, Philemon",2576,1,NJ,5000,Pro-Administration,0.609,-0.696
+2,38,1792-04-17,20,3,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,38,1792-04-17,20,3,"Few, William",3128,1,GA,4000,Anti-Administration,-0.505,-0.433
+2,38,1792-04-17,20,3,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,38,1792-04-17,20,3,"Gunn, James",3877,1,GA,4000,Anti-Administration,0.218,-0.884
+2,38,1792-04-17,20,3,"Hawkins, Benjamin",4212,1,NC,4000,Anti-Administration,-0.046,-0.664
+2,38,1792-04-17,20,3,"Henry, John",4333,1,MD,5000,Pro-Administration,0.123,-0.573
+2,38,1792-04-17,20,3,"Izard, Ralph",4837,1,SC,5000,Pro-Administration,0.446,-0.587
+2,38,1792-04-17,20,3,"Johnston, Samuel",5012,1,NC,5000,Pro-Administration,-0.025,-0.527
+2,38,1792-04-17,20,3,"King, Rufus",5270,9,NY,5000,Pro-Administration,0.575,-0.302
+2,38,1792-04-17,20,3,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,38,1792-04-17,20,3,"Lee, Richard Henry",5565,1,VA,4000,Anti-Administration,-0.384,-0.54
+2,38,1792-04-17,20,3,"Monroe, James",6594,1,VA,4000,Anti-Administration,-0.514,-0.762
+2,38,1792-04-17,20,3,"Morris, Robert",6712,1,PA,5000,Pro-Administration,0.7,-0.691
+2,38,1792-04-17,20,3,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,38,1792-04-17,20,3,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,38,1792-04-17,20,3,"Rutherfurd, John",8150,9,NJ,5000,Pro-Administration,0.871,-0.252
+2,38,1792-04-17,20,3,"Sherman, Roger",8457,1,CT,5000,Pro-Administration,0.589,0.307
+2,38,1792-04-17,20,3,"Stanton, Joseph, Jr.",8845,1,RI,4000,Anti-Administration,-0.091,0.736
+2,38,1792-04-17,20,3,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,38,1792-04-17,20,3,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,39,1792-04-17,4,16,"Bassett, Richard",507,9,DE,5000,Pro-Administration,0.087,0.007
+2,39,1792-04-17,4,16,"Bradley, Stephen Row",956,6,VT,4000,Anti-Administration,0.09,-0.202
+2,39,1792-04-17,4,16,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,39,1792-04-17,4,16,"Butler, Pierce",1346,9,SC,4000,Anti-Administration,-0.4,-0.912
+2,39,1792-04-17,4,16,"Cabot, George",1384,6,MA,5000,Pro-Administration,0.657,0.569
+2,39,1792-04-17,4,16,"Carroll, Charles (Of Carrollton)",1536,6,MD,5000,Pro-Administration,0.234,-0.619
+2,39,1792-04-17,4,16,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,39,1792-04-17,4,16,"Ellsworth, Oliver",2936,6,CT,5000,Pro-Administration,0.53,0.809
+2,39,1792-04-17,4,16,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,39,1792-04-17,4,16,"Foster, Theodore",3315,6,RI,5000,Pro-Administration,0.286,0.675
+2,39,1792-04-17,4,16,"Gunn, James",3877,9,GA,4000,Anti-Administration,0.218,-0.884
+2,39,1792-04-17,4,16,"Hawkins, Benjamin",4212,1,NC,4000,Anti-Administration,-0.046,-0.664
+2,39,1792-04-17,4,16,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,39,1792-04-17,4,16,"Izard, Ralph",4837,9,SC,5000,Pro-Administration,0.446,-0.587
+2,39,1792-04-17,4,16,"Johnston, Samuel",5012,1,NC,5000,Pro-Administration,-0.025,-0.527
+2,39,1792-04-17,4,16,"King, Rufus",5270,9,NY,5000,Pro-Administration,0.575,-0.302
+2,39,1792-04-17,4,16,"Langdon, John",5449,6,NH,5000,Pro-Administration,-0.37,0.107
+2,39,1792-04-17,4,16,"Lee, Richard Henry",5565,6,VA,4000,Anti-Administration,-0.384,-0.54
+2,39,1792-04-17,4,16,"Monroe, James",6594,1,VA,4000,Anti-Administration,-0.514,-0.762
+2,39,1792-04-17,4,16,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,39,1792-04-17,4,16,"Read, George",7762,6,DE,5000,Pro-Administration,0.282,-0.239
+2,39,1792-04-17,4,16,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,39,1792-04-17,4,16,"Rutherfurd, John",8150,9,NJ,5000,Pro-Administration,0.871,-0.252
+2,39,1792-04-17,4,16,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,39,1792-04-17,4,16,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,39,1792-04-17,4,16,"Strong, Caleb",9028,9,MA,5000,Pro-Administration,0.566,0.824
+2,39,1792-04-17,4,16,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,40,1792-04-17,6,16,"Bassett, Richard",507,9,DE,5000,Pro-Administration,0.087,0.007
+2,40,1792-04-17,6,16,"Bradley, Stephen Row",956,1,VT,4000,Anti-Administration,0.09,-0.202
+2,40,1792-04-17,6,16,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,40,1792-04-17,6,16,"Butler, Pierce",1346,9,SC,4000,Anti-Administration,-0.4,-0.912
+2,40,1792-04-17,6,16,"Cabot, George",1384,6,MA,5000,Pro-Administration,0.657,0.569
+2,40,1792-04-17,6,16,"Carroll, Charles (Of Carrollton)",1536,6,MD,5000,Pro-Administration,0.234,-0.619
+2,40,1792-04-17,6,16,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,40,1792-04-17,6,16,"Ellsworth, Oliver",2936,6,CT,5000,Pro-Administration,0.53,0.809
+2,40,1792-04-17,6,16,"Few, William",3128,1,GA,4000,Anti-Administration,-0.505,-0.433
+2,40,1792-04-17,6,16,"Foster, Theodore",3315,6,RI,5000,Pro-Administration,0.286,0.675
+2,40,1792-04-17,6,16,"Gunn, James",3877,1,GA,4000,Anti-Administration,0.218,-0.884
+2,40,1792-04-17,6,16,"Hawkins, Benjamin",4212,1,NC,4000,Anti-Administration,-0.046,-0.664
+2,40,1792-04-17,6,16,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,40,1792-04-17,6,16,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,40,1792-04-17,6,16,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,40,1792-04-17,6,16,"King, Rufus",5270,9,NY,5000,Pro-Administration,0.575,-0.302
+2,40,1792-04-17,6,16,"Langdon, John",5449,6,NH,5000,Pro-Administration,-0.37,0.107
+2,40,1792-04-17,6,16,"Lee, Richard Henry",5565,9,VA,4000,Anti-Administration,-0.384,-0.54
+2,40,1792-04-17,6,16,"Monroe, James",6594,1,VA,4000,Anti-Administration,-0.514,-0.762
+2,40,1792-04-17,6,16,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,40,1792-04-17,6,16,"Read, George",7762,6,DE,5000,Pro-Administration,0.282,-0.239
+2,40,1792-04-17,6,16,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,40,1792-04-17,6,16,"Rutherfurd, John",8150,9,NJ,5000,Pro-Administration,0.871,-0.252
+2,40,1792-04-17,6,16,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,40,1792-04-17,6,16,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,40,1792-04-17,6,16,"Strong, Caleb",9028,6,MA,5000,Pro-Administration,0.566,0.824
+2,40,1792-04-17,6,16,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,41,1792-04-20,17,2,"Bassett, Richard",507,9,DE,5000,Pro-Administration,0.087,0.007
+2,41,1792-04-20,17,2,"Bradley, Stephen Row",956,1,VT,4000,Anti-Administration,0.09,-0.202
+2,41,1792-04-20,17,2,"Burr, Aaron",1302,9,NY,4000,Anti-Administration,-0.887,-0.462
+2,41,1792-04-20,17,2,"Butler, Pierce",1346,9,SC,4000,Anti-Administration,-0.4,-0.912
+2,41,1792-04-20,17,2,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,41,1792-04-20,17,2,"Carroll, Charles (Of Carrollton)",1536,1,MD,5000,Pro-Administration,0.234,-0.619
+2,41,1792-04-20,17,2,"Dickinson, Philemon",2576,1,NJ,5000,Pro-Administration,0.609,-0.696
+2,41,1792-04-20,17,2,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,41,1792-04-20,17,2,"Few, William",3128,1,GA,4000,Anti-Administration,-0.505,-0.433
+2,41,1792-04-20,17,2,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,41,1792-04-20,17,2,"Gunn, James",3877,1,GA,4000,Anti-Administration,0.218,-0.884
+2,41,1792-04-20,17,2,"Hawkins, Benjamin",4212,1,NC,4000,Anti-Administration,-0.046,-0.664
+2,41,1792-04-20,17,2,"Henry, John",4333,1,MD,5000,Pro-Administration,0.123,-0.573
+2,41,1792-04-20,17,2,"Izard, Ralph",4837,1,SC,5000,Pro-Administration,0.446,-0.587
+2,41,1792-04-20,17,2,"Johnston, Samuel",5012,1,NC,5000,Pro-Administration,-0.025,-0.527
+2,41,1792-04-20,17,2,"King, Rufus",5270,9,NY,5000,Pro-Administration,0.575,-0.302
+2,41,1792-04-20,17,2,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,41,1792-04-20,17,2,"Lee, Richard Henry",5565,9,VA,4000,Anti-Administration,-0.384,-0.54
+2,41,1792-04-20,17,2,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,41,1792-04-20,17,2,"Morris, Robert",6712,1,PA,5000,Pro-Administration,0.7,-0.691
+2,41,1792-04-20,17,2,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,41,1792-04-20,17,2,"Robinson, Moses",7989,9,VT,4000,Anti-Administration,-0.732,0.649
+2,41,1792-04-20,17,2,"Rutherfurd, John",8150,9,NJ,5000,Pro-Administration,0.871,-0.252
+2,41,1792-04-20,17,2,"Sherman, Roger",8457,1,CT,5000,Pro-Administration,0.589,0.307
+2,41,1792-04-20,17,2,"Stanton, Joseph, Jr.",8845,1,RI,4000,Anti-Administration,-0.091,0.736
+2,41,1792-04-20,17,2,"Strong, Caleb",9028,9,MA,5000,Pro-Administration,0.566,0.824
+2,41,1792-04-20,17,2,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,42,1792-05-05,16,3,"Bassett, Richard",507,1,DE,5000,Pro-Administration,0.087,0.007
+2,42,1792-05-05,16,3,"Bradley, Stephen Row",956,9,VT,4000,Anti-Administration,0.09,-0.202
+2,42,1792-05-05,16,3,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,42,1792-05-05,16,3,"Butler, Pierce",1346,9,SC,4000,Anti-Administration,-0.4,-0.912
+2,42,1792-05-05,16,3,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,42,1792-05-05,16,3,"Carroll, Charles (Of Carrollton)",1536,1,MD,5000,Pro-Administration,0.234,-0.619
+2,42,1792-05-05,16,3,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,42,1792-05-05,16,3,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,42,1792-05-05,16,3,"Few, William",3128,1,GA,4000,Anti-Administration,-0.505,-0.433
+2,42,1792-05-05,16,3,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,42,1792-05-05,16,3,"Gunn, James",3877,9,GA,4000,Anti-Administration,0.218,-0.884
+2,42,1792-05-05,16,3,"Hawkins, Benjamin",4212,1,NC,4000,Anti-Administration,-0.046,-0.664
+2,42,1792-05-05,16,3,"Henry, John",4333,1,MD,5000,Pro-Administration,0.123,-0.573
+2,42,1792-05-05,16,3,"Izard, Ralph",4837,1,SC,5000,Pro-Administration,0.446,-0.587
+2,42,1792-05-05,16,3,"Johnston, Samuel",5012,1,NC,5000,Pro-Administration,-0.025,-0.527
+2,42,1792-05-05,16,3,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,42,1792-05-05,16,3,"Langdon, John",5449,9,NH,5000,Pro-Administration,-0.37,0.107
+2,42,1792-05-05,16,3,"Lee, Richard Henry",5565,9,VA,4000,Anti-Administration,-0.384,-0.54
+2,42,1792-05-05,16,3,"Monroe, James",6594,1,VA,4000,Anti-Administration,-0.514,-0.762
+2,42,1792-05-05,16,3,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,42,1792-05-05,16,3,"Read, George",7762,6,DE,5000,Pro-Administration,0.282,-0.239
+2,42,1792-05-05,16,3,"Robinson, Moses",7989,1,VT,4000,Anti-Administration,-0.732,0.649
+2,42,1792-05-05,16,3,"Rutherfurd, John",8150,9,NJ,5000,Pro-Administration,0.871,-0.252
+2,42,1792-05-05,16,3,"Sherman, Roger",8457,1,CT,5000,Pro-Administration,0.589,0.307
+2,42,1792-05-05,16,3,"Stanton, Joseph, Jr.",8845,9,RI,4000,Anti-Administration,-0.091,0.736
+2,42,1792-05-05,16,3,"Strong, Caleb",9028,9,MA,5000,Pro-Administration,0.566,0.824
+2,42,1792-05-05,16,3,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,43,1792-05-07,9,10,"Bassett, Richard",507,9,DE,5000,Pro-Administration,0.087,0.007
+2,43,1792-05-07,9,10,"Bradley, Stephen Row",956,9,VT,4000,Anti-Administration,0.09,-0.202
+2,43,1792-05-07,9,10,"Burr, Aaron",1302,9,NY,4000,Anti-Administration,-0.887,-0.462
+2,43,1792-05-07,9,10,"Butler, Pierce",1346,9,SC,4000,Anti-Administration,-0.4,-0.912
+2,43,1792-05-07,9,10,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,43,1792-05-07,9,10,"Carroll, Charles (Of Carrollton)",1536,1,MD,5000,Pro-Administration,0.234,-0.619
+2,43,1792-05-07,9,10,"Dickinson, Philemon",2576,1,NJ,5000,Pro-Administration,0.609,-0.696
+2,43,1792-05-07,9,10,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,43,1792-05-07,9,10,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,43,1792-05-07,9,10,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,43,1792-05-07,9,10,"Gunn, James",3877,9,GA,4000,Anti-Administration,0.218,-0.884
+2,43,1792-05-07,9,10,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,43,1792-05-07,9,10,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,43,1792-05-07,9,10,"Izard, Ralph",4837,1,SC,5000,Pro-Administration,0.446,-0.587
+2,43,1792-05-07,9,10,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,43,1792-05-07,9,10,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,43,1792-05-07,9,10,"Langdon, John",5449,9,NH,5000,Pro-Administration,-0.37,0.107
+2,43,1792-05-07,9,10,"Lee, Richard Henry",5565,6,VA,4000,Anti-Administration,-0.384,-0.54
+2,43,1792-05-07,9,10,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,43,1792-05-07,9,10,"Morris, Robert",6712,1,PA,5000,Pro-Administration,0.7,-0.691
+2,43,1792-05-07,9,10,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,43,1792-05-07,9,10,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,43,1792-05-07,9,10,"Rutherfurd, John",8150,9,NJ,5000,Pro-Administration,0.871,-0.252
+2,43,1792-05-07,9,10,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,43,1792-05-07,9,10,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,43,1792-05-07,9,10,"Strong, Caleb",9028,9,MA,5000,Pro-Administration,0.566,0.824
+2,43,1792-05-07,9,10,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,44,1792-05-08,14,2,"Bassett, Richard",507,9,DE,5000,Pro-Administration,0.087,0.007
+2,44,1792-05-08,14,2,"Bradley, Stephen Row",956,9,VT,4000,Anti-Administration,0.09,-0.202
+2,44,1792-05-08,14,2,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,44,1792-05-08,14,2,"Butler, Pierce",1346,9,SC,4000,Anti-Administration,-0.4,-0.912
+2,44,1792-05-08,14,2,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,44,1792-05-08,14,2,"Carroll, Charles (Of Carrollton)",1536,1,MD,5000,Pro-Administration,0.234,-0.619
+2,44,1792-05-08,14,2,"Dickinson, Philemon",2576,1,NJ,5000,Pro-Administration,0.609,-0.696
+2,44,1792-05-08,14,2,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,44,1792-05-08,14,2,"Few, William",3128,1,GA,4000,Anti-Administration,-0.505,-0.433
+2,44,1792-05-08,14,2,"Foster, Theodore",3315,9,RI,5000,Pro-Administration,0.286,0.675
+2,44,1792-05-08,14,2,"Gunn, James",3877,9,GA,4000,Anti-Administration,0.218,-0.884
+2,44,1792-05-08,14,2,"Hawkins, Benjamin",4212,9,NC,4000,Anti-Administration,-0.046,-0.664
+2,44,1792-05-08,14,2,"Henry, John",4333,1,MD,5000,Pro-Administration,0.123,-0.573
+2,44,1792-05-08,14,2,"Izard, Ralph",4837,1,SC,5000,Pro-Administration,0.446,-0.587
+2,44,1792-05-08,14,2,"Johnston, Samuel",5012,1,NC,5000,Pro-Administration,-0.025,-0.527
+2,44,1792-05-08,14,2,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,44,1792-05-08,14,2,"Langdon, John",5449,9,NH,5000,Pro-Administration,-0.37,0.107
+2,44,1792-05-08,14,2,"Lee, Richard Henry",5565,9,VA,4000,Anti-Administration,-0.384,-0.54
+2,44,1792-05-08,14,2,"Monroe, James",6594,1,VA,4000,Anti-Administration,-0.514,-0.762
+2,44,1792-05-08,14,2,"Morris, Robert",6712,1,PA,5000,Pro-Administration,0.7,-0.691
+2,44,1792-05-08,14,2,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,44,1792-05-08,14,2,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,44,1792-05-08,14,2,"Rutherfurd, John",8150,9,NJ,5000,Pro-Administration,0.871,-0.252
+2,44,1792-05-08,14,2,"Sherman, Roger",8457,1,CT,5000,Pro-Administration,0.589,0.307
+2,44,1792-05-08,14,2,"Stanton, Joseph, Jr.",8845,9,RI,4000,Anti-Administration,-0.091,0.736
+2,44,1792-05-08,14,2,"Strong, Caleb",9028,9,MA,5000,Pro-Administration,0.566,0.824
+2,44,1792-05-08,14,2,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,45,1792-12-11,5,19,"Bassett, Richard",507,6,DE,5000,Pro-Administration,0.087,0.007
+2,45,1792-12-11,5,19,"Bradley, Stephen Row",956,6,VT,4000,Anti-Administration,0.09,-0.202
+2,45,1792-12-11,5,19,"Brown, John",1118,1,KY,4000,Anti-Administration,-0.277,-0.548
+2,45,1792-12-11,5,19,"Burr, Aaron",1302,9,NY,4000,Anti-Administration,-0.887,-0.462
+2,45,1792-12-11,5,19,"Butler, Pierce",1346,1,SC,4000,Anti-Administration,-0.4,-0.912
+2,45,1792-12-11,5,19,"Cabot, George",1384,6,MA,5000,Pro-Administration,0.657,0.569
+2,45,1792-12-11,5,19,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,45,1792-12-11,5,19,"Edwards, John",2866,1,KY,4000,Anti-Administration,-0.725,-0.689
+2,45,1792-12-11,5,19,"Ellsworth, Oliver",2936,6,CT,5000,Pro-Administration,0.53,0.809
+2,45,1792-12-11,5,19,"Few, William",3128,1,GA,4000,Anti-Administration,-0.505,-0.433
+2,45,1792-12-11,5,19,"Foster, Theodore",3315,6,RI,5000,Pro-Administration,0.286,0.675
+2,45,1792-12-11,5,19,"Gunn, James",3877,9,GA,4000,Anti-Administration,0.218,-0.884
+2,45,1792-12-11,5,19,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,45,1792-12-11,5,19,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,45,1792-12-11,5,19,"Izard, Ralph",4837,1,SC,5000,Pro-Administration,0.446,-0.587
+2,45,1792-12-11,5,19,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,45,1792-12-11,5,19,"King, Rufus",5270,6,NY,5000,Pro-Administration,0.575,-0.302
+2,45,1792-12-11,5,19,"Langdon, John",5449,6,NH,5000,Pro-Administration,-0.37,0.107
+2,45,1792-12-11,5,19,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,45,1792-12-11,5,19,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,45,1792-12-11,5,19,"Read, George",7762,6,DE,5000,Pro-Administration,0.282,-0.239
+2,45,1792-12-11,5,19,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,45,1792-12-11,5,19,"Rutherfurd, John",8150,9,NJ,5000,Pro-Administration,0.871,-0.252
+2,45,1792-12-11,5,19,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,45,1792-12-11,5,19,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,45,1792-12-11,5,19,"Strong, Caleb",9028,6,MA,5000,Pro-Administration,0.566,0.824
+2,45,1792-12-11,5,19,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,46,1793-02-04,7,21,"Bassett, Richard",507,6,DE,5000,Pro-Administration,0.087,0.007
+2,46,1793-02-04,7,21,"Bradley, Stephen Row",956,6,VT,4000,Anti-Administration,0.09,-0.202
+2,46,1793-02-04,7,21,"Brown, John",1118,6,KY,4000,Anti-Administration,-0.277,-0.548
+2,46,1793-02-04,7,21,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,46,1793-02-04,7,21,"Butler, Pierce",1346,1,SC,4000,Anti-Administration,-0.4,-0.912
+2,46,1793-02-04,7,21,"Cabot, George",1384,6,MA,5000,Pro-Administration,0.657,0.569
+2,46,1793-02-04,7,21,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,46,1793-02-04,7,21,"Edwards, John",2866,1,KY,4000,Anti-Administration,-0.725,-0.689
+2,46,1793-02-04,7,21,"Ellsworth, Oliver",2936,6,CT,5000,Pro-Administration,0.53,0.809
+2,46,1793-02-04,7,21,"Few, William",3128,9,GA,4000,Anti-Administration,-0.505,-0.433
+2,46,1793-02-04,7,21,"Foster, Theodore",3315,6,RI,5000,Pro-Administration,0.286,0.675
+2,46,1793-02-04,7,21,"Gunn, James",3877,1,GA,4000,Anti-Administration,0.218,-0.884
+2,46,1793-02-04,7,21,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,46,1793-02-04,7,21,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,46,1793-02-04,7,21,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,46,1793-02-04,7,21,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,46,1793-02-04,7,21,"King, Rufus",5270,6,NY,5000,Pro-Administration,0.575,-0.302
+2,46,1793-02-04,7,21,"Langdon, John",5449,6,NH,5000,Pro-Administration,-0.37,0.107
+2,46,1793-02-04,7,21,"Monroe, James",6594,1,VA,4000,Anti-Administration,-0.514,-0.762
+2,46,1793-02-04,7,21,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,46,1793-02-04,7,21,"Potts, Richard",7564,1,MD,5000,Pro-Administration,0.409,-0.816
+2,46,1793-02-04,7,21,"Read, George",7762,6,DE,5000,Pro-Administration,0.282,-0.239
+2,46,1793-02-04,7,21,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,46,1793-02-04,7,21,"Rutherfurd, John",8150,6,NJ,5000,Pro-Administration,0.871,-0.252
+2,46,1793-02-04,7,21,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,46,1793-02-04,7,21,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,46,1793-02-04,7,21,"Strong, Caleb",9028,6,MA,5000,Pro-Administration,0.566,0.824
+2,46,1793-02-04,7,21,"Taylor, John",9215,1,VA,4000,Anti-Administration,-0.767,-0.6
+2,46,1793-02-04,7,21,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,47,1793-02-04,10,18,"Bassett, Richard",507,6,DE,5000,Pro-Administration,0.087,0.007
+2,47,1793-02-04,10,18,"Bradley, Stephen Row",956,6,VT,4000,Anti-Administration,0.09,-0.202
+2,47,1793-02-04,10,18,"Brown, John",1118,1,KY,4000,Anti-Administration,-0.277,-0.548
+2,47,1793-02-04,10,18,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,47,1793-02-04,10,18,"Butler, Pierce",1346,1,SC,4000,Anti-Administration,-0.4,-0.912
+2,47,1793-02-04,10,18,"Cabot, George",1384,6,MA,5000,Pro-Administration,0.657,0.569
+2,47,1793-02-04,10,18,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,47,1793-02-04,10,18,"Edwards, John",2866,1,KY,4000,Anti-Administration,-0.725,-0.689
+2,47,1793-02-04,10,18,"Ellsworth, Oliver",2936,6,CT,5000,Pro-Administration,0.53,0.809
+2,47,1793-02-04,10,18,"Few, William",3128,9,GA,4000,Anti-Administration,-0.505,-0.433
+2,47,1793-02-04,10,18,"Foster, Theodore",3315,6,RI,5000,Pro-Administration,0.286,0.675
+2,47,1793-02-04,10,18,"Gunn, James",3877,1,GA,4000,Anti-Administration,0.218,-0.884
+2,47,1793-02-04,10,18,"Hawkins, Benjamin",4212,1,NC,4000,Anti-Administration,-0.046,-0.664
+2,47,1793-02-04,10,18,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,47,1793-02-04,10,18,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,47,1793-02-04,10,18,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,47,1793-02-04,10,18,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,47,1793-02-04,10,18,"Langdon, John",5449,6,NH,5000,Pro-Administration,-0.37,0.107
+2,47,1793-02-04,10,18,"Monroe, James",6594,1,VA,4000,Anti-Administration,-0.514,-0.762
+2,47,1793-02-04,10,18,"Morris, Robert",6712,6,PA,5000,Pro-Administration,0.7,-0.691
+2,47,1793-02-04,10,18,"Potts, Richard",7564,1,MD,5000,Pro-Administration,0.409,-0.816
+2,47,1793-02-04,10,18,"Read, George",7762,6,DE,5000,Pro-Administration,0.282,-0.239
+2,47,1793-02-04,10,18,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,47,1793-02-04,10,18,"Rutherfurd, John",8150,6,NJ,5000,Pro-Administration,0.871,-0.252
+2,47,1793-02-04,10,18,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,47,1793-02-04,10,18,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,47,1793-02-04,10,18,"Strong, Caleb",9028,6,MA,5000,Pro-Administration,0.566,0.824
+2,47,1793-02-04,10,18,"Taylor, John",9215,1,VA,4000,Anti-Administration,-0.767,-0.6
+2,47,1793-02-04,10,18,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,48,1793-02-04,11,17,"Bassett, Richard",507,6,DE,5000,Pro-Administration,0.087,0.007
+2,48,1793-02-04,11,17,"Bradley, Stephen Row",956,6,VT,4000,Anti-Administration,0.09,-0.202
+2,48,1793-02-04,11,17,"Brown, John",1118,6,KY,4000,Anti-Administration,-0.277,-0.548
+2,48,1793-02-04,11,17,"Burr, Aaron",1302,6,NY,4000,Anti-Administration,-0.887,-0.462
+2,48,1793-02-04,11,17,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,48,1793-02-04,11,17,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,48,1793-02-04,11,17,"Dickinson, Philemon",2576,1,NJ,5000,Pro-Administration,0.609,-0.696
+2,48,1793-02-04,11,17,"Edwards, John",2866,6,KY,4000,Anti-Administration,-0.725,-0.689
+2,48,1793-02-04,11,17,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,48,1793-02-04,11,17,"Few, William",3128,9,GA,4000,Anti-Administration,-0.505,-0.433
+2,48,1793-02-04,11,17,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,48,1793-02-04,11,17,"Gunn, James",3877,6,GA,4000,Anti-Administration,0.218,-0.884
+2,48,1793-02-04,11,17,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,48,1793-02-04,11,17,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,48,1793-02-04,11,17,"Izard, Ralph",4837,1,SC,5000,Pro-Administration,0.446,-0.587
+2,48,1793-02-04,11,17,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,48,1793-02-04,11,17,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,48,1793-02-04,11,17,"Langdon, John",5449,6,NH,5000,Pro-Administration,-0.37,0.107
+2,48,1793-02-04,11,17,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,48,1793-02-04,11,17,"Morris, Robert",6712,1,PA,5000,Pro-Administration,0.7,-0.691
+2,48,1793-02-04,11,17,"Potts, Richard",7564,6,MD,5000,Pro-Administration,0.409,-0.816
+2,48,1793-02-04,11,17,"Read, George",7762,6,DE,5000,Pro-Administration,0.282,-0.239
+2,48,1793-02-04,11,17,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,48,1793-02-04,11,17,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,48,1793-02-04,11,17,"Sherman, Roger",8457,1,CT,5000,Pro-Administration,0.589,0.307
+2,48,1793-02-04,11,17,"Stanton, Joseph, Jr.",8845,1,RI,4000,Anti-Administration,-0.091,0.736
+2,48,1793-02-04,11,17,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,48,1793-02-04,11,17,"Taylor, John",9215,6,VA,4000,Anti-Administration,-0.767,-0.6
+2,48,1793-02-04,11,17,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,49,1793-02-19,19,9,"Bassett, Richard",507,1,DE,5000,Pro-Administration,0.087,0.007
+2,49,1793-02-19,19,9,"Bradley, Stephen Row",956,1,VT,4000,Anti-Administration,0.09,-0.202
+2,49,1793-02-19,19,9,"Brown, John",1118,6,KY,4000,Anti-Administration,-0.277,-0.548
+2,49,1793-02-19,19,9,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,49,1793-02-19,19,9,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,49,1793-02-19,19,9,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,49,1793-02-19,19,9,"Dickinson, Philemon",2576,1,NJ,5000,Pro-Administration,0.609,-0.696
+2,49,1793-02-19,19,9,"Edwards, John",2866,6,KY,4000,Anti-Administration,-0.725,-0.689
+2,49,1793-02-19,19,9,"Ellsworth, Oliver",2936,1,CT,5000,Pro-Administration,0.53,0.809
+2,49,1793-02-19,19,9,"Few, William",3128,6,GA,4000,Anti-Administration,-0.505,-0.433
+2,49,1793-02-19,19,9,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,49,1793-02-19,19,9,"Gunn, James",3877,1,GA,4000,Anti-Administration,0.218,-0.884
+2,49,1793-02-19,19,9,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,49,1793-02-19,19,9,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,49,1793-02-19,19,9,"Izard, Ralph",4837,1,SC,5000,Pro-Administration,0.446,-0.587
+2,49,1793-02-19,19,9,"Johnston, Samuel",5012,1,NC,5000,Pro-Administration,-0.025,-0.527
+2,49,1793-02-19,19,9,"King, Rufus",5270,1,NY,5000,Pro-Administration,0.575,-0.302
+2,49,1793-02-19,19,9,"Langdon, John",5449,1,NH,5000,Pro-Administration,-0.37,0.107
+2,49,1793-02-19,19,9,"Monroe, James",6594,6,VA,4000,Anti-Administration,-0.514,-0.762
+2,49,1793-02-19,19,9,"Morris, Robert",6712,1,PA,5000,Pro-Administration,0.7,-0.691
+2,49,1793-02-19,19,9,"Potts, Richard",7564,9,MD,5000,Pro-Administration,0.409,-0.816
+2,49,1793-02-19,19,9,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,49,1793-02-19,19,9,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,49,1793-02-19,19,9,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,49,1793-02-19,19,9,"Sherman, Roger",8457,1,CT,5000,Pro-Administration,0.589,0.307
+2,49,1793-02-19,19,9,"Stanton, Joseph, Jr.",8845,1,RI,4000,Anti-Administration,-0.091,0.736
+2,49,1793-02-19,19,9,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,49,1793-02-19,19,9,"Taylor, John",9215,6,VA,4000,Anti-Administration,-0.767,-0.6
+2,49,1793-02-19,19,9,"Wingate, Paine",10272,1,NH,4000,Anti-Administration,-0.037,0.999
+2,50,1793-02-23,15,14,"Bassett, Richard",507,6,DE,5000,Pro-Administration,0.087,0.007
+2,50,1793-02-23,15,14,"Bradley, Stephen Row",956,1,VT,4000,Anti-Administration,0.09,-0.202
+2,50,1793-02-23,15,14,"Brown, John",1118,1,KY,4000,Anti-Administration,-0.277,-0.548
+2,50,1793-02-23,15,14,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,50,1793-02-23,15,14,"Butler, Pierce",1346,1,SC,4000,Anti-Administration,-0.4,-0.912
+2,50,1793-02-23,15,14,"Cabot, George",1384,6,MA,5000,Pro-Administration,0.657,0.569
+2,50,1793-02-23,15,14,"Dickinson, Philemon",2576,1,NJ,5000,Pro-Administration,0.609,-0.696
+2,50,1793-02-23,15,14,"Edwards, John",2866,1,KY,4000,Anti-Administration,-0.725,-0.689
+2,50,1793-02-23,15,14,"Ellsworth, Oliver",2936,6,CT,5000,Pro-Administration,0.53,0.809
+2,50,1793-02-23,15,14,"Few, William",3128,1,GA,4000,Anti-Administration,-0.505,-0.433
+2,50,1793-02-23,15,14,"Foster, Theodore",3315,6,RI,5000,Pro-Administration,0.286,0.675
+2,50,1793-02-23,15,14,"Gunn, James",3877,1,GA,4000,Anti-Administration,0.218,-0.884
+2,50,1793-02-23,15,14,"Hawkins, Benjamin",4212,1,NC,4000,Anti-Administration,-0.046,-0.664
+2,50,1793-02-23,15,14,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,50,1793-02-23,15,14,"Izard, Ralph",4837,1,SC,5000,Pro-Administration,0.446,-0.587
+2,50,1793-02-23,15,14,"Johnston, Samuel",5012,6,NC,5000,Pro-Administration,-0.025,-0.527
+2,50,1793-02-23,15,14,"King, Rufus",5270,6,NY,5000,Pro-Administration,0.575,-0.302
+2,50,1793-02-23,15,14,"Langdon, John",5449,6,NH,5000,Pro-Administration,-0.37,0.107
+2,50,1793-02-23,15,14,"Monroe, James",6594,1,VA,4000,Anti-Administration,-0.514,-0.762
+2,50,1793-02-23,15,14,"Morris, Robert",6712,1,PA,5000,Pro-Administration,0.7,-0.691
+2,50,1793-02-23,15,14,"Potts, Richard",7564,1,MD,5000,Pro-Administration,0.409,-0.816
+2,50,1793-02-23,15,14,"Read, George",7762,6,DE,5000,Pro-Administration,0.282,-0.239
+2,50,1793-02-23,15,14,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,50,1793-02-23,15,14,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,50,1793-02-23,15,14,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,50,1793-02-23,15,14,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,50,1793-02-23,15,14,"Strong, Caleb",9028,6,MA,5000,Pro-Administration,0.566,0.824
+2,50,1793-02-23,15,14,"Taylor, John",9215,1,VA,4000,Anti-Administration,-0.767,-0.6
+2,50,1793-02-23,15,14,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,51,1793-02-26,11,16,"Bassett, Richard",507,6,DE,5000,Pro-Administration,0.087,0.007
+2,51,1793-02-26,11,16,"Bradley, Stephen Row",956,9,VT,4000,Anti-Administration,0.09,-0.202
+2,51,1793-02-26,11,16,"Brown, John",1118,6,KY,4000,Anti-Administration,-0.277,-0.548
+2,51,1793-02-26,11,16,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,51,1793-02-26,11,16,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,51,1793-02-26,11,16,"Cabot, George",1384,1,MA,5000,Pro-Administration,0.657,0.569
+2,51,1793-02-26,11,16,"Dickinson, Philemon",2576,6,NJ,5000,Pro-Administration,0.609,-0.696
+2,51,1793-02-26,11,16,"Edwards, John",2866,1,KY,4000,Anti-Administration,-0.725,-0.689
+2,51,1793-02-26,11,16,"Ellsworth, Oliver",2936,6,CT,5000,Pro-Administration,0.53,0.809
+2,51,1793-02-26,11,16,"Few, William",3128,1,GA,4000,Anti-Administration,-0.505,-0.433
+2,51,1793-02-26,11,16,"Foster, Theodore",3315,6,RI,5000,Pro-Administration,0.286,0.675
+2,51,1793-02-26,11,16,"Gunn, James",3877,1,GA,4000,Anti-Administration,0.218,-0.884
+2,51,1793-02-26,11,16,"Hawkins, Benjamin",4212,1,NC,4000,Anti-Administration,-0.046,-0.664
+2,51,1793-02-26,11,16,"Henry, John",4333,6,MD,5000,Pro-Administration,0.123,-0.573
+2,51,1793-02-26,11,16,"Izard, Ralph",4837,6,SC,5000,Pro-Administration,0.446,-0.587
+2,51,1793-02-26,11,16,"Johnston, Samuel",5012,1,NC,5000,Pro-Administration,-0.025,-0.527
+2,51,1793-02-26,11,16,"King, Rufus",5270,6,NY,5000,Pro-Administration,0.575,-0.302
+2,51,1793-02-26,11,16,"Langdon, John",5449,6,NH,5000,Pro-Administration,-0.37,0.107
+2,51,1793-02-26,11,16,"Monroe, James",6594,1,VA,4000,Anti-Administration,-0.514,-0.762
+2,51,1793-02-26,11,16,"Morris, Robert",6712,1,PA,5000,Pro-Administration,0.7,-0.691
+2,51,1793-02-26,11,16,"Potts, Richard",7564,9,MD,5000,Pro-Administration,0.409,-0.816
+2,51,1793-02-26,11,16,"Read, George",7762,6,DE,5000,Pro-Administration,0.282,-0.239
+2,51,1793-02-26,11,16,"Robinson, Moses",7989,6,VT,4000,Anti-Administration,-0.732,0.649
+2,51,1793-02-26,11,16,"Rutherfurd, John",8150,6,NJ,5000,Pro-Administration,0.871,-0.252
+2,51,1793-02-26,11,16,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,51,1793-02-26,11,16,"Stanton, Joseph, Jr.",8845,6,RI,4000,Anti-Administration,-0.091,0.736
+2,51,1793-02-26,11,16,"Strong, Caleb",9028,1,MA,5000,Pro-Administration,0.566,0.824
+2,51,1793-02-26,11,16,"Taylor, John",9215,1,VA,4000,Anti-Administration,-0.767,-0.6
+2,51,1793-02-26,11,16,"Wingate, Paine",10272,6,NH,4000,Anti-Administration,-0.037,0.999
+2,52,1793-03-02,17,7,"Bassett, Richard",507,1,DE,5000,Pro-Administration,0.087,0.007
+2,52,1793-03-02,17,7,"Bradley, Stephen Row",956,9,VT,4000,Anti-Administration,0.09,-0.202
+2,52,1793-03-02,17,7,"Brown, John",1118,6,KY,4000,Anti-Administration,-0.277,-0.548
+2,52,1793-03-02,17,7,"Burr, Aaron",1302,1,NY,4000,Anti-Administration,-0.887,-0.462
+2,52,1793-03-02,17,7,"Butler, Pierce",1346,6,SC,4000,Anti-Administration,-0.4,-0.912
+2,52,1793-03-02,17,7,"Cabot, George",1384,6,MA,5000,Pro-Administration,0.657,0.569
+2,52,1793-03-02,17,7,"Dickinson, Philemon",2576,1,NJ,5000,Pro-Administration,0.609,-0.696
+2,52,1793-03-02,17,7,"Edwards, John",2866,1,KY,4000,Anti-Administration,-0.725,-0.689
+2,52,1793-03-02,17,7,"Ellsworth, Oliver",2936,6,CT,5000,Pro-Administration,0.53,0.809
+2,52,1793-03-02,17,7,"Few, William",3128,1,GA,4000,Anti-Administration,-0.505,-0.433
+2,52,1793-03-02,17,7,"Foster, Theodore",3315,1,RI,5000,Pro-Administration,0.286,0.675
+2,52,1793-03-02,17,7,"Gunn, James",3877,1,GA,4000,Anti-Administration,0.218,-0.884
+2,52,1793-03-02,17,7,"Hawkins, Benjamin",4212,6,NC,4000,Anti-Administration,-0.046,-0.664
+2,52,1793-03-02,17,7,"Henry, John",4333,1,MD,5000,Pro-Administration,0.123,-0.573
+2,52,1793-03-02,17,7,"Izard, Ralph",4837,1,SC,5000,Pro-Administration,0.446,-0.587
+2,52,1793-03-02,17,7,"Johnston, Samuel",5012,1,NC,5000,Pro-Administration,-0.025,-0.527
+2,52,1793-03-02,17,7,"King, Rufus",5270,6,NY,5000,Pro-Administration,0.575,-0.302
+2,52,1793-03-02,17,7,"Langdon, John",5449,9,NH,5000,Pro-Administration,-0.37,0.107
+2,52,1793-03-02,17,7,"Monroe, James",6594,1,VA,4000,Anti-Administration,-0.514,-0.762
+2,52,1793-03-02,17,7,"Morris, Robert",6712,1,PA,5000,Pro-Administration,0.7,-0.691
+2,52,1793-03-02,17,7,"Potts, Richard",7564,1,MD,5000,Pro-Administration,0.409,-0.816
+2,52,1793-03-02,17,7,"Read, George",7762,1,DE,5000,Pro-Administration,0.282,-0.239
+2,52,1793-03-02,17,7,"Robinson, Moses",7989,9,VT,4000,Anti-Administration,-0.732,0.649
+2,52,1793-03-02,17,7,"Rutherfurd, John",8150,1,NJ,5000,Pro-Administration,0.871,-0.252
+2,52,1793-03-02,17,7,"Sherman, Roger",8457,6,CT,5000,Pro-Administration,0.589,0.307
+2,52,1793-03-02,17,7,"Stanton, Joseph, Jr.",8845,1,RI,4000,Anti-Administration,-0.091,0.736
+2,52,1793-03-02,17,7,"Strong, Caleb",9028,9,MA,5000,Pro-Administration,0.566,0.824
+2,52,1793-03-02,17,7,"Taylor, John",9215,1,VA,4000,Anti-Administration,-0.767,-0.6
+2,52,1793-03-02,17,7,"Wingate, Paine",10272,9,NH,4000,Anti-Administration,-0.037,0.999
