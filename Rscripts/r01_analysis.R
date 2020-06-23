@@ -63,35 +63,11 @@ source("Rscripts/r00_helper.R")
 # source helper Rcpp functions
 Rcpp::sourceCpp("Rscripts/_boxicity2.cpp")
 #------------------------------------------------------------------------------#
-# 3) directory structure ----
-# |project_dir
-# |-- Rscripts -> r01_analysis.R, r00_helper.R, _boxicity2.cpp
-# |--data
-#   |-- raw (scraped data)
-#   |-- processed (manipulated data)
-#   |-- figures (R script figure output)
-
-# create directories (project_dir and Rscripts should be present!)
-if(!dir.exists("data")){
-  dir.create("data")
-  dir.create("data/raw")
-  dir.create("data/processed")
-  dir.create("data/processed/boxicity2")
-  dir.create("data/processed/networks")
-  dir.create("data/processed/superbox1")
-  dir.create("data/processed/superbox2")
-  dir.create("data/processed/superbox3")
-  dir.create("data/processed/superbox4")
-  dir.create("data/processed/superbox5")
-  dir.create("data/processed/votes")
-  dir.create("data/processed/wnominate")
-  dir.create("data/figures")
-} 
-
-#------------------------------------------------------------------------------#
-# 4) set script parameters ----
+# 3) set script parameters ----
 # these parameters should be set appropriately before the script is sourced.
 # for a complete reproduction set all to TRUE
+
+dir_create <- TRUE
 
 do_parallel <- TRUE # some analyses can be parallelised with the parallel pkg
 
@@ -138,6 +114,31 @@ mse_visualize <- TRUE
 c_seq <- 81:116 #senates to run the script with
 n <- length(c_seq)
 
+#------------------------------------------------------------------------------#
+# 4) directory structure ----
+# |project_dir
+# |-- Rscripts -> r01_analysis.R, r00_helper.R, _boxicity2.cpp
+# |--data
+#   |-- raw (scraped data)
+#   |-- processed (manipulated data)
+#   |-- figures (R script figure output)
+
+# create directories (project_dir and Rscripts should be present!)
+if(dir_create){
+  dir.create("data")
+  dir.create("data/raw")
+  dir.create("data/processed")
+  dir.create("data/processed/boxicity2")
+  dir.create("data/processed/networks")
+  dir.create("data/processed/superbox1")
+  dir.create("data/processed/superbox2")
+  dir.create("data/processed/superbox3")
+  dir.create("data/processed/superbox4")
+  dir.create("data/processed/superbox5")
+  dir.create("data/processed/votes")
+  dir.create("data/processed/wnominate")
+  dir.create("data/figures")
+}
 #_______________________________ ----
 #------------------------------------------------------------------------------#
 # B) data preparation ----
