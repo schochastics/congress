@@ -1035,7 +1035,7 @@ p1 <- senate_scores %>%
   labs(x="Session",y="Party mean of Fiedler vector")
 
 
-ggsave("data/figures/polarization_senate.pdf",p1,width=8,height=6)
+ggsave("data/figures/polarization_senate.pdf",p1,width=8,height=4)
 
 
 #------------------------------------------------------------------------------#
