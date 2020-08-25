@@ -1,10 +1,12 @@
 #_______________________________ ----
 #------------------------------------------------------------------------------#
 # R script to reproduce the results of 
-# Positions to niches: Interval representations of co-voting behavior
+# Legislators' roll-call voting behavior increasingly corresponds to intervals in 
+#  the political spectrum
+#
 # David Schoch and Ulrik Brandes
 # please contact david.schoch@manchester.ac.uk for help
-
+#
 # https://github.com/schochastics/congress
 #------------------------------------------------------------------------------#
 
@@ -567,8 +569,8 @@ if(networks_visualize){
   fl <- fl[order(readr::parse_number(fl))]
   
   pList_senate <- list()
-  senates <- paste0(c_seq,c("th","st","nd","rd",rep("th",6))[(c_seq%%10)+1]," Session")
-  senate_years <- seq(1789,2019,2)[c_seq]
+  # senates <- paste0(c_seq,c("th","st","nd","rd",rep("th",6))[(c_seq%%10)+1]," Session")
+  # senate_years <- seq(1789,2019,2)[c_seq]
   for(f in 1:length(fl)){
     l <- readRDS(fl[f])
     l <- delete.vertices(l,which(degree(l)==0))
@@ -647,7 +649,7 @@ if(lazarus_visualize){
   p1 <- ggplotGrob(p1)
   
   p <- p + annotation_custom(p1,  xmin = 100,  xmax = 118,  ymin = 10,  ymax = 40 )
-  ggsave("data/figures/lazarus_senate.pdf",p,width=8,height=6)
+  ggsave("data/figures/lazarus_senate.pdf",p,width=8,height=4)#h6
 }
 
 #------------------------------------------------------------------------------#
@@ -1075,34 +1077,68 @@ dat$name <- ifelse(dat$name%in%c("SM Collins (ME)","MK Heitkamp (ND)","J Manchin
 dat$name[dat$name=="SM Collins (ME)"] <- "1"
 dat$name[dat$name=="MK Heitkamp (ND)"] <- "2"
 dat$name[dat$name=="J Manchin (WV)"] <- "3"
+dat$xannot <- 0
+dat$xannot[dat$name == "1"] <- 1.025
+dat$xannot[dat$name == "2"] <- -1.05
+dat$xannot[dat$name == "3"] <- -1.025
+  
+# ggplot(dat)+
+#   geom_segment(aes(y=rk,yend=rk),x=-1,xend=1,col="grey",size=0.1)+
+#   annotate("segment",xend=-1.047,x=-1,y=2,yend=2,col="grey",size=0.2) +
+#   annotate("segment",xend=-1.023,x=-1,y=1,yend=1,col="grey",size=0.2) +
+#   annotate("segment",xend=1.023,x=1,y=1,yend=1,col="grey",size=0.2) +
+#   geom_segment(aes(x=sign*x,
+#                    xend=sign*xend,
+#                    y=rk+(grp==2)*0.1+(grp==1)*-0.1,
+#                    yend=rk+(grp==2)*0.1+(grp==1)*-0.1,
+#                    col=party),size=1.2,alpha=1)+
+#   geom_text(aes(y=rk,label=name),x=dat$xannot,
+#   size=4.5, #2.5
+#   hjust=ifelse(dat$grp==2,0,1))+
+#   annotate("segment", y= 0,yend=0,x=-1,xend=1)+
+#   coord_cartesian(clip = "off")+
+#   ggthemes::theme_tufte()+
+#   theme(legend.position = "none",
+#         axis.text.x = element_text(size=14),
+#         axis.title.x = element_text(size=14))+
+#   scale_color_manual(values=c("Republican"="#CD3333", 
+#                               "Democrat"="#104E8B",
+#                               "Independent"="#EEB422"))+
+#   scale_x_continuous(limits=c(-1.1,1.1),breaks=c(-1,0,1))+
+#   # scale_x_continuous(breaks=c(-1,0,1))+
+#   scale_y_continuous(breaks=NULL)+
+#   labs(y="",x="")
 
-ggplot(dat)+
-  geom_segment(aes(y=rk,yend=rk),x=-1,xend=1,col="grey",size=0.1)+
-  geom_segment(aes(x=sign*x,
-                   xend=sign*xend,
-                   y=rk+(grp==2)*0.1+(grp==1)*-0.1,
-                   yend=rk+(grp==2)*0.1+(grp==1)*-0.1,
-                   col=party),size=1.2,alpha=1)+
-  geom_text(aes(y=rk,label=name),x=case_when((dat$grp==2 & dat$rk%%2==0)~1,
-                                             (dat$grp==2 & dat$rk%%2!=0)~1,
-                                             (dat$grp!=2 & dat$rk%%2==0)~-1,
-                                             (dat$grp!=2 & dat$rk%%2!=0)~-1,
-  ),
-  size=2.5,
-  hjust=ifelse(dat$grp==2,0,1))+
-  annotate("segment", y= 0,yend=0,x=-1,xend=1)+
+dat1 <- dat %>% 
+  group_by(x,xend) %>% 
+  dplyr::summarise(size=n(),rk1=min(rk),party=list(unique(party)),sign=sign[1]) %>% 
+  ungroup() %>%
+  mutate(pident=map_chr(party,function(x) paste0(str_sub(x,1,1),collapse=""))) %>% 
+  mutate(class=paste0(pident,dense_rank(rk1))) %>% 
+  unnest(party)
+
+ggplot(dat1)+
+  geom_rect(aes(xmin=sign*x,xmax=xend*sign,ymin=rk1+0.5,ymax=rk1+size-0.5,fill=party),alpha=0.75)+
+  geom_rect(aes(xmin=sign*x,xmax=xend*sign,ymin=rk1+0.5,ymax=rk1+size-0.5,col=party),fill=NA)+
+  geom_text(aes(x=ifelse(size==1,ifelse(party=="Republican",sign*xend,sign*x),(sign*x+sign*xend)/2),
+                y=rk1+size/2,label=class),
+            hjust=ifelse(dat1$size==1,ifelse(dat1$party=="Republican",0,1),0.5))+
+  scale_fill_manual(values=c("Republican"="#CD3333", 
+                             "Democrat"="#104E8B",
+                             "Independent"="#EEB422"))+
+  scale_colour_manual(values=c("Republican"="#CD3333", 
+                               "Democrat"="#104E8B",
+                               "Independent"="#EEB422"))+
+  scale_x_continuous(limits=c(-1.1,1.1),breaks=c(-1,0,1))+
+  # scale_x_continuous(breaks=c(-1,0,1))+
+  scale_y_continuous(breaks=NULL)+
   coord_cartesian(clip = "off")+
   ggthemes::theme_tufte()+
   theme(legend.position = "none",
         axis.text.x = element_text(size=14),
         axis.title.x = element_text(size=14))+
-  scale_color_manual(values=c("Republican"="#CD3333", 
-                              "Democrat"="#104E8B",
-                              "Independent"="#EEB422"))+
-  # scale_x_continuous(limits=c(-1.2,1.2),breaks=c(-1,0,1))+
-  scale_x_continuous(breaks=c(-1,0,1))+
-  scale_y_continuous(breaks=NULL)+
   labs(y="",x="")
 
-ggsave("data/figures/intervals_senate_115_noname.pdf",width=14,height=5)#7  
+
+ggsave("data/figures/intervals_senate_115_noname.pdf",width=14,height=5)#5  
 

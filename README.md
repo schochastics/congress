@@ -1,10 +1,10 @@
-# Positions to niches: Interval representations of co-voting behavior
+# Legislators’ roll-call voting behavior increasinglycorresponds to intervals in the political spectrum
 
 This repository contains material to reproduce the results from the paper
 
-> David Schoch and Ulrik Brandes "Positions to niches: Interval representations of co-voting behavior" 
+> David Schoch and Ulrik Brandes "Legislators’ roll-call voting behavior increasinglycorresponds to intervals in the political spectrum" 
 
-*(under review)*
+*(currently in Revise & Resubmit)*
 
 
 # Session Info
