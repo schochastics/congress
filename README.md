@@ -2,9 +2,7 @@
 
 This repository contains material to reproduce the results from the paper
 
-> David Schoch and Ulrik Brandes "Legislators’ roll-call voting behavior increasinglycorresponds to intervals in the political spectrum" 
-
-*(currently in Revise & Resubmit)*
+> David Schoch and Ulrik Brandes "Legislators’ roll-call voting behavior increasinglycorresponds to intervals in the political spectrum" [Link](https://www.nature.com/articles/s41598-020-74175-w)
 
 
 # Session Info
