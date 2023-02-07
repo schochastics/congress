@@ -5,7 +5,7 @@
 #  the political spectrum
 #
 # David Schoch and Ulrik Brandes
-# please contact david.schoch@manchester.ac.uk for help
+# please contact david.schoch@gesis.org for help
 #
 # https://github.com/schochastics/congress
 #------------------------------------------------------------------------------#
